@@ -1,0 +1,193 @@
+# Claude Skills Generator Configuration
+# Market Liquidity Analysis Skill - Michael Howell Methodology
+
+# ==============================================================================
+# BUSINESS INFORMATION
+# ==============================================================================
+
+business:
+  description: |
+    I am a market liquidity analyst specializing in global liquidity cycle analysis following 
+    the methodology developed by Michael Howell of CrossBorder Capital. My workflow involves 
+    analyzing central bank balance sheets, tracking monetary aggregates (M2, M3, base money), 
+    monitoring cross-border capital flows, and assessing the impact of liquidity conditions 
+    on asset prices. I produce comprehensive liquidity analysis reports that identify cycle 
+    phases, forecast turning points, and provide forward-looking assessments of liquidity 
+    conditions across major economies. My analysis framework focuses on the 60-65 month 
+    liquidity cycles, debt-liquidity interdependence, collateral market health, and the 
+    relationship between monetary policy actions and financial market performance.
+  
+  industry: "Financial Analysis - Market Liquidity & Monetary Policy"
+  
+  team_size: "1-5"
+  
+  primary_workflows:
+    - "Global Liquidity Cycle Analysis"
+    - "Central Bank Balance Sheet Analysis"
+    - "Cross-Border Capital Flow Tracking"
+    - "Monetary Aggregates Analysis (M2, M3)"
+    - "Liquidity-Asset Price Correlation Analysis"
+    - "Collateral Market Health Monitoring"
+
+# ==============================================================================
+# SKILL GENERATION REQUIREMENTS
+# ==============================================================================
+
+skills:
+  count: 1
+  
+  overlap_strategy: "overlapping"
+  
+  use_cases:
+    - name: "Global Market Liquidity Analyst"
+      description: |
+        Conduct comprehensive market liquidity analysis following Michael Howell's CrossBorder 
+        Capital methodology. This skill should perform analysis at the level of an experienced 
+        liquidity cycle analyst, including:
+        
+        **Core Analysis Components:**
+        - Global Liquidity Cycle Identification: Identify and track 60-65 month liquidity cycles 
+          across major economies, determine current cycle phase (expansion, peak, contraction, trough), 
+          and forecast cycle turning points
+        - Central Bank Balance Sheet Analysis: Analyze Federal Reserve, ECB, BOJ, PBOC, and other 
+          major central bank balance sheets, track QE/QT programs, policy rate changes, and forward 
+          guidance implications
+        - Cross-Border Capital Flow Tracking: Monitor cross-border capital flows, FX liquidity 
+          conditions, reserve currency dynamics, and international liquidity transmission mechanisms
+        - Monetary Aggregates Analysis: Track M0, M1, M2, M3 monetary aggregates across major 
+          economies, analyze money supply growth rates, velocity of money, and credit creation
+        - Debt-Liquidity Interdependence Analysis: Assess the symbiotic relationship between debt 
+          and liquidity, analyze refinancing requirements, debt rollover risks, and liquidity needs 
+          for debt servicing
+        - Collateral Market Health Monitoring: Track bond market volatility, repo market spreads, 
+          margin requirements, and collateral quality indicators to assess system liquidity capacity
+        - Liquidity-Asset Price Correlation Analysis: Analyze relationship between liquidity 
+          conditions and asset prices (equities, bonds, commodities), identify liquidity-driven 
+          asset price movements, and assess forward-looking asset price implications
+        - Forward-Looking Liquidity Forecasts: Provide forward-looking assessments of liquidity 
+          conditions, cycle positioning, and potential turning points based on leading and lagging 
+          indicators
+        
+        **Output Requirements:**
+        - Excel Models: Generate comprehensive Excel workbooks with liquidity cycle tracking, central 
+          bank balance sheet analysis, cross-border flow models, monetary aggregates tracking, and 
+          asset price correlation analysis with charts and visualizations
+        - Written Analysis Reports: Create professional liquidity analysis reports (2-5 pages) 
+          with cycle positioning, current liquidity assessment, forward-looking forecasts, and 
+          asset price implications in PDF format
+        - Visualizations: Generate charts showing liquidity cycles, central bank balance sheets 
+          over time, cross-border flows, monetary aggregates trends, and asset price correlations
+        
+        **Report Structure:**
+        - Executive Summary: Current liquidity cycle phase, key findings, and forward-looking 
+          implications
+        - Global Liquidity Cycle Assessment: Current cycle positioning, phase identification, 
+          historical context, and forecasted turning points
+        - Central Bank Policy Analysis: Analysis of major central bank balance sheets, policy 
+          actions, and their liquidity implications
+        - Cross-Border Capital Flows: Analysis of international liquidity flows and FX conditions
+        - Monetary Aggregates Review: Money supply analysis across major economies
+        - Collateral Market Health: Assessment of bond markets, repo markets, and systemic 
+          liquidity capacity
+        - Asset Price Implications: Analysis of how current liquidity conditions affect equities, 
+          bonds, and commodities
+        - Forward-Looking Forecast: Liquidity cycle projections and potential market implications
+        
+        **Writing Style:**
+        - Data-driven with specific metrics, charts, and quantitative analysis
+        - Clear cycle phase identification and positioning
+        - Forward-looking with specific forecasts and timeline projections
+        - Balanced presentation of both leading and lagging indicators
+        - Institutional quality suitable for portfolio managers and investment committees
+        
+        The skill should handle inputs like:
+        - Central bank balance sheet data (time series from Fed, ECB, BOJ, PBOC, etc.)
+        - Monetary aggregates data (M0, M1, M2, M3 from central banks and statistical agencies)
+        - Cross-border capital flow data (from BIS, IMF, central banks)
+        - Market data (bond yields, equity prices, FX rates, commodity prices)
+        - Economic indicators (GDP, inflation, credit growth, money velocity)
+        - Central bank policy statements and forward guidance
+        
+        Output should be formatted as comprehensive liquidity analysis with Excel models containing 
+        formulas, charts, and dashboards, plus written reports with visualizations and forward-looking 
+        forecasts.
+        
+      requires_python: true
+      sample_data_type: "excel"
+
+# ==============================================================================
+# ADVANCED OPTIONS
+# ==============================================================================
+
+advanced:
+  integrations:
+    - "Excel (liquidity models, cycle charts, data dashboards)"
+    - "Python data libraries (pandas, matplotlib, plotly for visualization)"
+    - "Central bank data APIs (Fed, ECB, BOJ, PBOC data)"
+    - "Financial data APIs (Bloomberg, FRED, BIS statistics)"
+    - "PDF generation (liquidity analysis reports)"
+    - "Charting and visualization tools"
+  
+  domain_knowledge:
+    - "Michael Howell's liquidity cycle framework (60-65 month cycles)"
+    - "Debt-liquidity interdependence theory"
+    - "Central bank policy tools (QE, QT, policy rates, forward guidance)"
+    - "Monetary aggregates definitions and calculations (M0, M1, M2, M3)"
+    - "Cross-border capital flow mechanics and FX liquidity"
+    - "Collateral markets (repo markets, bond markets, margin requirements)"
+    - "Liquidity cycle phases (expansion, peak, contraction, trough)"
+    - "Asset price sensitivity to liquidity conditions"
+    - "Global reserve currency dynamics"
+    - "Shadow banking system and liquidity creation"
+  
+  preferred_languages:
+    - "python"
+  
+  constraints:
+    - "Must use current, verifiable data sources with timestamps"
+    - "Must distinguish between liquidity measures (M2, M3, base money, etc.)"
+    - "Must clearly identify cycle phase and positioning"
+    - "Must present both leading and lagging liquidity indicators"
+    - "Must cite data sources and calculation methodologies"
+    - "Must flag uncertainty in forward-looking projections"
+    - "Must handle multiple central bank data formats and time zones"
+    - "Output must distinguish between liquidity supply and demand"
+
+# ==============================================================================
+# METADATA
+# ==============================================================================
+
+metadata:
+  config_version: "1.0"
+  created_date: "2025-10-25"
+  last_modified: "2025-10-25"
+  author: "Liquidity Analyst"
+  organization: "Market Analysis"
+
+generation_settings:
+  claude_model: "claude-sonnet-4-20250514"
+  prompt_template_version: "1.0"
+  generation_mode: "batch"
+
+tracking:
+  project_id: "market-liquidity-analysis-v1"
+  tags:
+    - "liquidity-analysis"
+    - "monetary-policy"
+    - "central-banks"
+    - "market-cycles"
+    - "michael-howell"
+  notes: "Skill for conducting comprehensive market liquidity analysis following Michael Howell's CrossBorder Capital methodology, including liquidity cycle identification, central bank analysis, cross-border flows, and asset price implications"
+
+# ==============================================================================
+# OUTPUT PREFERENCES
+# ==============================================================================
+
+output:
+  output_directory: "./generated_skills"
+  
+  include_testing_guides: true
+  
+  sample_data_style: "realistic"
+  
+  test_scenario_depth: "comprehensive"

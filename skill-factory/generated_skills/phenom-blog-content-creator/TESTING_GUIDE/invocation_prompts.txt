@@ -1,0 +1,35 @@
+Hey Claude—I just added the "phenom-blog-content-creator" skill. Can you create a blog post about AI in talent acquisition using the following research content?
+
+[Paste research content here]
+
+---
+
+Hey Claude—I just added the "phenom-blog-content-creator" skill. Can you format this content into a Phenom-style blog post?
+
+[Company A Case Study]
+Company A provides healthcare services and faces staffing challenges. Their Director of Recruitment stated: "Our biggest challenge is finding qualified nurses in today's market." They implemented an AI chatbot solution and saw a 250% increase in applications and reduced time-to-hire from 45 days to 28 days.
+
+---
+
+Hey Claude—I just added the "phenom-blog-content-creator" skill. I have research data from my research skill about skills-based hiring. Can you create a Phenom-style blog post with case studies from three companies?
+
+[Research data will be provided]
+
+---
+
+Hey Claude—I just added the "phenom-blog-content-creator" skill. Can you create a blog post about internal mobility strategies using this content?
+
+Content:
+- Company B: Implemented talent marketplace, saw 40% increase in internal hires
+- Company C: Created skills profiles for all employees, reduced external hiring by 30%
+- Company D: Launched career development program, improved retention by 25%
+
+---
+
+Hey Claude—I just added the "phenom-blog-content-creator" skill. Can you create a Phenom-style blog post about high-volume hiring challenges? I'll provide the research content in the next message.
+
+---
+
+Hey Claude—I just added the "phenom-blog-content-creator" skill. I have content from multiple sources about AI chatbots in recruitment. Can you curate and format this into a professional Phenom blog post with proper structure and formatting?
+
+
