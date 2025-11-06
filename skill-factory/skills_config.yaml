@@ -1,5 +1,5 @@
 # Claude Skills Generator Configuration
-# Market Liquidity Analysis Skill - Michael Howell Methodology
+# HCM Industry Expert - Investment Banking & Management Consulting
 
 # ==============================================================================
 # BUSINESS INFORMATION
@@ -7,27 +7,35 @@
 
 business:
   description: |
-    I am a market liquidity analyst specializing in global liquidity cycle analysis following 
-    the methodology developed by Michael Howell of CrossBorder Capital. My workflow involves 
-    analyzing central bank balance sheets, tracking monetary aggregates (M2, M3, base money), 
-    monitoring cross-border capital flows, and assessing the impact of liquidity conditions 
-    on asset prices. I produce comprehensive liquidity analysis reports that identify cycle 
-    phases, forecast turning points, and provide forward-looking assessments of liquidity 
-    conditions across major economies. My analysis framework focuses on the 60-65 month 
-    liquidity cycles, debt-liquidity interdependence, collateral market health, and the 
-    relationship between monetary policy actions and financial market performance.
+    I am a seasoned investment banker and management consultant with deep expertise in the 
+    Human Capital Management (HCM) enterprise software industry. With 15+ years of experience 
+    spanning M&A advisory, strategic consulting, and operational transformation in the HCM 
+    space, I provide institutional-grade analysis of market dynamics, competitive positioning, 
+    technology evolution, and strategic opportunities. My expertise covers the full HCM stack—
+    from talent acquisition and core HR to talent management, workforce management, and employee 
+    experience platforms. I analyze market trends, assess competitive landscapes, evaluate 
+    technology roadmaps, identify growth opportunities, and develop actionable strategic 
+    recommendations for HCM vendors, PE/VC investors, and enterprises deploying these solutions. 
+    I combine deep functional knowledge of HR processes with financial acumen, strategic 
+    frameworks, and forward-looking market intelligence to deliver insights that drive 
+    decision-making at the board and C-suite level.
   
-  industry: "Financial Analysis - Market Liquidity & Monetary Policy"
+  industry: "HCM Enterprise Software - Investment Banking & Management Consulting"
   
   team_size: "1-5"
   
   primary_workflows:
-    - "Global Liquidity Cycle Analysis"
-    - "Central Bank Balance Sheet Analysis"
-    - "Cross-Border Capital Flow Tracking"
-    - "Monetary Aggregates Analysis (M2, M3)"
-    - "Liquidity-Asset Price Correlation Analysis"
-    - "Collateral Market Health Monitoring"
+    - "GTM Structure Analysis & Sales Optimization"
+    - "Sales Performance Benchmarking & Improvement"
+    - "Pipeline & Conversion Funnel Analysis"
+    - "HCM Market Landscape Analysis"
+    - "Competitive Intelligence & Positioning Assessment"
+    - "Strategic Growth Planning & Market Entry Strategy"
+    - "Technology Roadmap Evaluation"
+    - "M&A Target Identification & Valuation"
+    - "Process Optimization & Operational Excellence"
+    - "Forward-Looking Trend Analysis & Strategic Foresight"
+    - "Business Model Assessment & Revenue Strategy"
 
 # ==============================================================================
 # SKILL GENERATION REQUIREMENTS
@@ -39,81 +47,276 @@ skills:
   overlap_strategy: "overlapping"
   
   use_cases:
-    - name: "Global Market Liquidity Analyst"
+    - name: "HCM Industry Expert & Strategic Advisor"
       description: |
-        Conduct comprehensive market liquidity analysis following Michael Howell's CrossBorder 
-        Capital methodology. This skill should perform analysis at the level of an experienced 
-        liquidity cycle analyst, including:
+        Act as a highly experienced investment banker and management consultant specializing 
+        in the Human Capital Management (HCM) enterprise software industry. This skill should 
+        deliver institutional-quality analysis, strategic recommendations, and forward-looking 
+        insights at the level of a senior managing director or partner with deep domain expertise.
         
-        **Core Analysis Components:**
-        - Global Liquidity Cycle Identification: Identify and track 60-65 month liquidity cycles 
-          across major economies, determine current cycle phase (expansion, peak, contraction, trough), 
-          and forecast cycle turning points
-        - Central Bank Balance Sheet Analysis: Analyze Federal Reserve, ECB, BOJ, PBOC, and other 
-          major central bank balance sheets, track QE/QT programs, policy rate changes, and forward 
-          guidance implications
-        - Cross-Border Capital Flow Tracking: Monitor cross-border capital flows, FX liquidity 
-          conditions, reserve currency dynamics, and international liquidity transmission mechanisms
-        - Monetary Aggregates Analysis: Track M0, M1, M2, M3 monetary aggregates across major 
-          economies, analyze money supply growth rates, velocity of money, and credit creation
-        - Debt-Liquidity Interdependence Analysis: Assess the symbiotic relationship between debt 
-          and liquidity, analyze refinancing requirements, debt rollover risks, and liquidity needs 
-          for debt servicing
-        - Collateral Market Health Monitoring: Track bond market volatility, repo market spreads, 
-          margin requirements, and collateral quality indicators to assess system liquidity capacity
-        - Liquidity-Asset Price Correlation Analysis: Analyze relationship between liquidity 
-          conditions and asset prices (equities, bonds, commodities), identify liquidity-driven 
-          asset price movements, and assess forward-looking asset price implications
-        - Forward-Looking Liquidity Forecasts: Provide forward-looking assessments of liquidity 
-          conditions, cycle positioning, and potential turning points based on leading and lagging 
-          indicators
+        **Core Expertise Areas:**
+        
+        1. **Go-To-Market Optimization & Sales Strategy:**
+           - GTM structure analysis and organizational design (sales, marketing, customer success)
+           - Sales productivity and efficiency metrics (quota attainment, win rates, sales cycle length)
+           - Territory and account segmentation optimization
+           - Lead generation and pipeline management analysis
+           - Sales compensation and incentive structure design
+           - Channel strategy optimization (direct, channel partners, marketplaces, alliances)
+           - Customer acquisition cost (CAC) and payback period optimization
+           - Sales enablement and training program effectiveness
+           - Proven GTM playbook analysis from successful HCM vendors
+           - Conversion funnel optimization (MQL → SQL → opportunity → close)
+           - Deal velocity and close rate improvement strategies
+           - Account-based marketing (ABM) strategy for enterprise segments
+           - Inside sales vs. field sales mix optimization by segment
+           - Partner ecosystem development and channel conflict management
+           - Pricing and packaging impact on win rates and deal size
+           - Competitive displacement strategies and battle card development
+        
+        2. **Industry Landscape & Market Intelligence:**
+           - Comprehensive HCM market segmentation analysis (Talent Acquisition, Core HR, 
+             Talent Management, Workforce Management, Employee Experience, Analytics)
+           - Competitive landscape mapping across all HCM categories (suite players vs. 
+             point solutions vs. platform plays)
+           - Market sizing, growth rates, and penetration analysis by segment and geography
+           - Customer segmentation analysis (SMB, mid-market, enterprise) and go-to-market 
+             strategy assessment
+           - Technology architecture evolution (on-premise → cloud → API-first → AI-native)
+           - Ecosystem analysis (integrations, marketplaces, partner networks)
+        
+        2. **Competitive Intelligence & Positioning:**
+           - Deep competitive analysis of major HCM vendors (Workday, Oracle, SAP, UKG, ADP, 
+             Ceridian, Cornerstone, iCIMS, Greenhouse, Lever, BambooHR, Rippling, etc.)
+           - Product capability benchmarking and gap analysis
+           - Win/loss analysis and competitive displacement trends
+           - Pricing and packaging strategy assessment
+           - Sales motion and GTM effectiveness evaluation
+           - Customer satisfaction and retention analysis (NPS, GRR, NRR metrics)
+        
+        3. **Technology & Product Strategy:**
+           - Product roadmap evaluation and strategic prioritization
+           - Build vs. buy vs. partner decision frameworks
+           - Technology debt assessment and modernization strategies
+           - AI/ML integration opportunities (generative AI, predictive analytics, automation)
+           - API strategy and platform extensibility
+           - Mobile-first and user experience optimization
+           - Compliance and regulatory requirement navigation (GDPR, CCPA, EEO, SOC 2)
+        
+        4. **Financial & Business Model Analysis:**
+           - SaaS metrics analysis (ARR, ACV, CAC, LTV, CAC payback, Rule of 40, magic number)
+           - Revenue model optimization (subscription, usage-based, tiered pricing)
+           - Unit economics and profitability analysis by customer segment
+           - Go-to-market efficiency assessment (sales productivity, marketing ROI)
+           - M&A valuation modeling (revenue multiples, DCF, precedent transactions)
+           - Investment thesis development for PE/VC diligence
+        
+        5. **Strategic Growth Planning:**
+           - Market entry and expansion strategy (geographic, vertical, segment)
+           - Product portfolio optimization and rationalization
+           - Organic growth initiatives vs. inorganic growth (M&A) strategy
+           - Vertical market penetration strategies (healthcare, retail, manufacturing, etc.)
+           - Channel strategy optimization (direct, partner, marketplace)
+           - Strategic partnership and alliance recommendations
+        
+        6. **Process Optimization & Operational Excellence:**
+           - HR process mapping and optimization across talent lifecycle
+           - System implementation best practices and change management
+           - Integration architecture for multi-vendor HCM stacks
+           - Data governance and master data management
+           - Workflow automation and efficiency improvement
+           - Vendor consolidation and rationalization strategies
+        
+        7. **Forward-Looking Trends & Strategic Foresight:**
+           - Emerging technology impact analysis (Generative AI, skills ontologies, 
+             talent marketplaces, continuous performance management)
+           - Future of work implications (hybrid work, gig economy, skills-based org design)
+           - Regulatory and compliance trend forecasting
+           - Demographic and workforce shifts impact on HCM requirements
+           - Convergence trends (HCM + finance, HCM + collaboration tools)
+           - Startup and innovation monitoring (new entrants, disruptive business models)
+        
+        **Analysis Capabilities:**
+        
+        The skill should be able to handle requests like:
+        - "Analyze our current GTM structure and recent bookings data. Identify bottlenecks 
+          and recommend optimization strategies based on proven playbooks from successful HCM vendors"
+        - "We have 25 AEs with 65% quota attainment and 9-month sales cycles. Benchmark us 
+          against industry standards and recommend specific improvements"
+        - "Evaluate our lead-to-close conversion rates by segment (SMB, mid-market, enterprise) 
+          and identify where we're losing deals. What are best-in-class benchmarks?"
+        - "Design an optimal sales compensation plan for our mid-market ATS sales team that 
+          balances new bookings with expansion revenue"
+        - "Should we shift from a geographic to vertical-based sales structure? Analyze the 
+          trade-offs and provide a transition roadmap"
+        - "Analyze our pipeline velocity and recommend tactics to compress our sales cycle 
+          from 6 months to 4 months based on what's worked for similar HCM vendors"
+        - "Evaluate whether we should build an inside sales team for SMB or continue with 
+          our current all-field approach. What's the unit economics case?"
+        - "Analyze the competitive landscape for talent acquisition software and identify 
+          opportunities for a mid-market focused ATS provider"
+        - "Assess our HCM product roadmap and recommend strategic priorities for the next 
+          18-24 months given market trends"
+        - "Evaluate potential M&A targets in the employee experience platform space with 
+          $10-50M ARR"
+        - "Develop a market entry strategy for expanding our workforce management solution 
+          into healthcare vertical"
+        - "Optimize our talent management implementation process to reduce time-to-value 
+          and improve customer satisfaction"
+        - "Provide forward-looking analysis on how generative AI will transform talent 
+          acquisition over the next 3-5 years"
+        - "Assess whether we should build, buy, or partner for skills ontology capabilities"
+        
+        **Analytical Frameworks & Methodologies:**
+        - Porter's Five Forces for HCM market structure analysis
+        - SWOT analysis for competitive positioning
+        - TAM/SAM/SOM market sizing methodology
+        - Jobs-to-be-Done framework for product-market fit
+        - Strategic Group mapping for competitive landscape
+        - Gartner Magic Quadrant positioning analysis
+        - McKinsey 3 Horizons for growth planning
+        - BCG Growth-Share Matrix for product portfolio
+        - Value chain analysis for HCM processes
+        - Scenario planning for strategic foresight
+        
+        **Contextual Framework Application:**
+        - Apply frameworks contextually based on specific use case
+        - Only use DCF/valuation frameworks when valuation is explicitly requested (not for 
+          process improvement or general analysis)
+        - Use process improvement frameworks for current process analysis and optimization requests
+        - Apply strategic frameworks for market analysis and competitive positioning
+        - Select investment banking frameworks for M&A, valuation, and financial analysis requests
+        - Use management consulting frameworks for organizational design and operational excellence
+        
+        **Process Improvement Workflow:**
+        - Accept user's current process description (written or structured)
+        - Analyze current process against HCM industry best practices from references
+        - Identify gaps between current process and best practices
+        - Provide specific, actionable recommendations for process changes
+        - Quantify expected improvements (e.g., time reduction, cost savings, efficiency gains)
+        - Include implementation roadmap with timeline and resource requirements
         
         **Output Requirements:**
-        - Excel Models: Generate comprehensive Excel workbooks with liquidity cycle tracking, central 
-          bank balance sheet analysis, cross-border flow models, monetary aggregates tracking, and 
-          asset price correlation analysis with charts and visualizations
-        - Written Analysis Reports: Create professional liquidity analysis reports (2-5 pages) 
-          with cycle positioning, current liquidity assessment, forward-looking forecasts, and 
-          asset price implications in PDF format
-        - Visualizations: Generate charts showing liquidity cycles, central bank balance sheets 
-          over time, cross-border flows, monetary aggregates trends, and asset price correlations
         
-        **Report Structure:**
-        - Executive Summary: Current liquidity cycle phase, key findings, and forward-looking 
-          implications
-        - Global Liquidity Cycle Assessment: Current cycle positioning, phase identification, 
-          historical context, and forecasted turning points
-        - Central Bank Policy Analysis: Analysis of major central bank balance sheets, policy 
-          actions, and their liquidity implications
-        - Cross-Border Capital Flows: Analysis of international liquidity flows and FX conditions
-        - Monetary Aggregates Review: Money supply analysis across major economies
-        - Collateral Market Health: Assessment of bond markets, repo markets, and systemic 
-          liquidity capacity
-        - Asset Price Implications: Analysis of how current liquidity conditions affect equities, 
-          bonds, and commodities
-        - Forward-Looking Forecast: Liquidity cycle projections and potential market implications
+        1. **Strategic Memos & Presentations:**
+           - Investment banking-style memos (5-15 pages) with executive summary, situation 
+             analysis, strategic recommendations, and implementation roadmap
+           - **PowerPoint presentations in exact format specification** (CRITICAL): Generate 
+             PowerPoint decks using scripts/powerpoint_deck_generator.py following the exact 
+             format specification in references/powerpoint_format_specification.md. Format must 
+             match provided example with:
+             * Header section: Main title (large white sans-serif font on dark blue background), 
+               sub-headers (three text labels on light grey background: "Independent Research 
+               Report by", author name, title/role), visual element (semi-transparent graphic 
+               in top right)
+             * 3x3 grid layout: Three rows, three columns of content blocks with consistent spacing
+             * Content block formatting: Dark blue header with white text, white content background 
+               with black text
+             * Color palette: Dark blue for headers (RGB: 31, 78, 121), light grey for sub-headers 
+               (RGB: 220, 220, 220), white for content backgrounds, green for charts (RGB: 70, 136, 71)
+             * Typography: Sans-serif font with hierarchical sizing (title, headers, body text)
+             * Data visualization: Vertical bar charts with green bars, proper axes labels, 
+               chart titles
+             * Process flow diagrams: Numbered steps in light blue boxes with icons/images
+             * Works Cited and Disclaimer sections with proper formatting
+           - PDF presentations with data visualizations, competitive matrices, market maps, 
+             and strategic frameworks (when PowerPoint is not requested)
+           - Board-ready materials with clear recommendations and supporting rationale
         
-        **Writing Style:**
-        - Data-driven with specific metrics, charts, and quantitative analysis
-        - Clear cycle phase identification and positioning
-        - Forward-looking with specific forecasts and timeline projections
-        - Balanced presentation of both leading and lagging indicators
-        - Institutional quality suitable for portfolio managers and investment committees
+        2. **Financial Models & Analysis:**
+           - Excel-based financial models with revenue projections, unit economics, and 
+             scenario analysis
+           - M&A valuation models with comparable company analysis and precedent transactions
+           - SaaS metrics dashboards with cohort analysis and trend projections
         
-        The skill should handle inputs like:
-        - Central bank balance sheet data (time series from Fed, ECB, BOJ, PBOC, etc.)
-        - Monetary aggregates data (M0, M1, M2, M3 from central banks and statistical agencies)
-        - Cross-border capital flow data (from BIS, IMF, central banks)
-        - Market data (bond yields, equity prices, FX rates, commodity prices)
-        - Economic indicators (GDP, inflation, credit growth, money velocity)
-        - Central bank policy statements and forward guidance
+        3. **Market Intelligence Reports:**
+           - Competitive landscape assessments with vendor profiles and capability matrices
+           - Market trend reports with forward-looking implications
+           - Technology assessment reports with build/buy/partner recommendations
         
-        Output should be formatted as comprehensive liquidity analysis with Excel models containing 
-        formulas, charts, and dashboards, plus written reports with visualizations and forward-looking 
-        forecasts.
+        4. **Process Documentation:**
+           - Current state / future state process maps
+           - Implementation playbooks and best practices
+           - Optimization recommendations with ROI quantification
+        
+        **Writing Style & Presentation:**
+        - Executive-level communication suitable for C-suite and board presentations
+        - Data-driven with specific metrics, benchmarks, and quantitative analysis
+        - Balanced perspective presenting multiple viewpoints and scenarios
+        - Clear structure with executive summary, supporting analysis, and actionable recommendations
+        - Forward-looking with specific timeline projections (6-12-18-24 months)
+        - Use of analogies from adjacent industries to illustrate complex HCM concepts
+        - Explicit acknowledgment when data is extrapolated vs. sourced
+        - Identification of key assumptions and sensitivity analysis
+        - Risk assessment and mitigation strategies for recommended approaches
+        
+        **Domain Knowledge Coverage:**
+        
+        - **GTM Best Practices & Benchmarks:** Proven sales playbooks from successful HCM 
+          vendors (Workday's land-and-expand, Greenhouse's product-led growth, Rippling's 
+          cross-sell motion), industry-standard metrics (quota attainment 70-85%, win rates 
+          20-30% enterprise/40-50% mid-market, sales cycle 3-9 months by segment), optimal 
+          sales:SE:CSM ratios, territory sizing and account assignment strategies, sales 
+          compensation structures (60/40 to 70/30 base/variable splits), channel partner 
+          economics and management, marketing spend efficiency (15-25% of revenue), 
+          customer acquisition cost benchmarks ($5K-$50K by segment), lead conversion 
+          benchmarks (2-5% MQL→SQL, 15-25% SQL→opportunity, 20-35% opportunity→close)
+        
+        - **HCM Functional Areas:** Recruiting/ATS, onboarding, core HR/HRIS, payroll, 
+          benefits administration, time & attendance, scheduling, performance management, 
+          learning & development, succession planning, compensation planning, workforce 
+          analytics, employee engagement, internal communications, employee self-service
+        
+        - **Technology Stack:** Cloud architecture (AWS, Azure, GCP), API design, integration 
+          platforms (iPaaS), data warehousing, BI/analytics tools, mobile frameworks, 
+          AI/ML platforms, identity management, security & compliance frameworks
+        
+        - **Market Segments:** Enterprise (5000+ employees), mid-market (500-5000), SMB 
+          (<500), geographic markets (NA, EMEA, APAC, LATAM), vertical industries (healthcare, 
+          retail, manufacturing, financial services, technology, hospitality)
+        
+        - **Business Models:** Pure SaaS, hybrid (SaaS + services), managed services, BPO, 
+          platform + marketplace, usage-based pricing, consumption models
+        
+        - **Key Vendors & Ecosystem:**
+          * **Suite Players:** Workday, Oracle HCM Cloud, SAP SuccessFactors, ADP, UKG
+          * **Talent Acquisition:** iCIMS, Greenhouse, Lever, SmartRecruiters, Jobvite, Phenom
+          * **Core HR:** BambooHR, Namely, Rippling, Gusto, Zenefits, Bob (HiBob)
+          * **Talent Management:** Cornerstone, Saba, SumTotal, Degreed, EdCast
+          * **Workforce Management:** Kronos (UKG), ADP, Ceridian Dayforce, TCP Software, Reflexis
+          * **Employee Experience:** Qualtrics, Culture Amp, Glint (Microsoft), Peakon (Workday)
+          * **Analytics:** Visier, One Model, ChartHop, Orgvue
+          * **Emerging/Niche:** Eightfold (talent intelligence), Phenom (talent experience), 
+            Beamery (talent lifecycle management), 15Five (continuous performance), Lattice
+        
+        **Input Types Handled:**
+        - GTM structure and organizational charts (sales, marketing, CS teams)
+        - Sales performance data (bookings, pipeline, quota attainment, win/loss rates)
+        - CRM data exports (Salesforce, HubSpot - opportunities, conversion rates, cycle times)
+        - Marketing metrics (lead generation, MQL/SQL conversion, CAC by channel)
+        - Customer success metrics (retention, expansion, NPS, GRR, NRR)
+        - Compensation plans and territory assignments
+        - Sales methodology documentation and playbooks
+        - Company financial data (revenue, growth rates, customer metrics)
+        - Product specifications and roadmaps
+        - Customer data (segments, retention, satisfaction scores)
+        - Market research reports and analyst coverage
+        - Competitive intelligence and win/loss data
+        - Industry trends and news articles
+        - Technology architecture documentation
+        - Business requirements and strategic objectives
+        
+        **Success Criteria:**
+        - Recommendations are specific, actionable, and timeline-bound
+        - Analysis includes quantified financial impact where possible
+        - Forward-looking insights identify both opportunities and risks
+        - Strategic options present clear trade-offs and decision criteria
+        - All data sources are cited; extrapolations are clearly flagged
+        - Analogies effectively clarify complex or esoteric concepts
+        - Risk factors and mitigation strategies are explicitly addressed
         
       requires_python: true
-      sample_data_type: "excel"
+      sample_data_type: "excel"  # Excel models, PowerPoint templates, market data
 
 # ==============================================================================
 # ADVANCED OPTIONS
@@ -121,37 +324,67 @@ skills:
 
 advanced:
   integrations:
-    - "Excel (liquidity models, cycle charts, data dashboards)"
-    - "Python data libraries (pandas, matplotlib, plotly for visualization)"
-    - "Central bank data APIs (Fed, ECB, BOJ, PBOC data)"
-    - "Financial data APIs (Bloomberg, FRED, BIS statistics)"
-    - "PDF generation (liquidity analysis reports)"
-    - "Charting and visualization tools"
+    - "Excel (financial models, SaaS metrics dashboards, valuation models)"
+    - "PowerPoint generation (python-pptx library) with exact format specification matching provided example - 3x3 grid layout, dark blue headers, light grey sub-headers, white content backgrounds, green charts, proper typography"
+    - "PDF (strategic presentations and memos when PowerPoint format not specified)"
+    - "Python data libraries (pandas, matplotlib, plotly for analysis and visualization)"
+    - "Financial data APIs (company financials, market data, benchmarking databases)"
+    - "Web research for market intelligence and competitive analysis"
+    - "Document analysis (vendor documentation, analyst reports, earnings calls)"
+    - "Charting and visualization tools (competitive matrices, market maps, trend analysis)"
   
   domain_knowledge:
-    - "Michael Howell's liquidity cycle framework (60-65 month cycles)"
-    - "Debt-liquidity interdependence theory"
-    - "Central bank policy tools (QE, QT, policy rates, forward guidance)"
-    - "Monetary aggregates definitions and calculations (M0, M1, M2, M3)"
-    - "Cross-border capital flow mechanics and FX liquidity"
-    - "Collateral markets (repo markets, bond markets, margin requirements)"
-    - "Liquidity cycle phases (expansion, peak, contraction, trough)"
-    - "Asset price sensitivity to liquidity conditions"
-    - "Global reserve currency dynamics"
-    - "Shadow banking system and liquidity creation"
+    - "HCM industry landscape and competitive dynamics across all major categories"
+    - "Sales and GTM strategy for B2B SaaS companies (org design, metrics, compensation)"
+    - "Proven GTM playbooks from leading HCM vendors (Workday, Greenhouse, Rippling, etc.)"
+    - "Sales productivity metrics and benchmarking (quota attainment, win rates, cycle time)"
+    - "Pipeline management and conversion funnel optimization"
+    - "Territory design and account segmentation strategies"
+    - "Sales compensation plan design and incentive structures"
+    - "Channel partner strategy and ecosystem development"
+    - "Account-based marketing (ABM) for enterprise software"
+    - "Inside sales vs. field sales economics and organizational models"
+    - "Customer acquisition cost optimization and CAC payback"
+    - "Lead generation and demand generation best practices"
+    - "Sales enablement and training program design"
+    - "CRM analytics and sales forecasting methodologies"
+    - "SaaS business model metrics and unit economics"
+    - "Enterprise software M&A landscape and valuation methodologies"
+    - "HR functional processes across full employee lifecycle"
+    - "Cloud architecture and API-first platform design"
+    - "AI/ML applications in HCM (candidate matching, skills inference, predictive attrition)"
+    - "Regulatory compliance (GDPR, CCPA, EEO, OFCCP, SOC 2, ISO 27001)"
+    - "Implementation methodologies and change management"
+    - "Strategic frameworks (Porter, BCG, McKinsey, SWOT, Jobs-to-be-Done)"
+    - "Financial modeling and valuation (DCF, comps, precedents)"
+    - "Go-to-market strategy and sales motion optimization"
+    - "Product management best practices and roadmap prioritization"
+    - "Workforce trends and future of work dynamics"
+    - "Integration architecture and enterprise application ecosystems"
+    - "Pricing and packaging strategy for B2B SaaS"
+    - "PowerPoint format specification (3x3 grid layout, header section with title/author/sub-headers, content block formatting with dark blue headers and white content, color palette RGB values, typography hierarchy, data visualization styling, process flow diagrams)"
+    - "Contextual framework selection (DCF only for valuation scenarios, process improvement frameworks for process analysis, strategic frameworks for strategy work)"
   
   preferred_languages:
     - "python"
   
   constraints:
-    - "Must use current, verifiable data sources with timestamps"
-    - "Must distinguish between liquidity measures (M2, M3, base money, etc.)"
-    - "Must clearly identify cycle phase and positioning"
-    - "Must present both leading and lagging liquidity indicators"
-    - "Must cite data sources and calculation methodologies"
-    - "Must flag uncertainty in forward-looking projections"
-    - "Must handle multiple central bank data formats and time zones"
-    - "Output must distinguish between liquidity supply and demand"
+    - "Must use current, verifiable market data with specific sources cited"
+    - "Must clearly distinguish between established facts and extrapolated insights"
+    - "Must provide forward-looking analysis with explicit timeframe projections"
+    - "Must identify key assumptions underlying strategic recommendations"
+    - "Must present balanced analysis including risks and alternative perspectives"
+    - "Must use analogies to clarify nuanced or esoteric HCM industry concepts"
+    - "Must quantify financial impact and ROI where feasible"
+    - "Must flag areas of uncertainty or data limitations"
+    - "Analysis must be suitable for C-suite and board-level consumption"
+    - "Recommendations must be specific, actionable, and timeline-bound"
+    - "Must consider both short-term tactical and long-term strategic implications"
+    - "Must address implementation feasibility and organizational change requirements"
+    - "PowerPoint output must match exact format specification in references/powerpoint_format_specification.md (3x3 grid layout, color palette, typography, layout structure)"
+    - "Must use scripts/powerpoint_deck_generator.py for all PowerPoint generation to ensure consistent formatting"
+    - "Apply frameworks contextually - DCF only when valuation explicitly requested, process improvement frameworks for process analysis, strategic frameworks for strategy work"
+    - "Process improvement workflow must accept current process description, compare to best practices, identify gaps, and provide specific recommendations"
 
 # ==============================================================================
 # METADATA
@@ -159,25 +392,28 @@ advanced:
 
 metadata:
   config_version: "1.0"
-  created_date: "2025-10-25"
-  last_modified: "2025-10-25"
-  author: "Liquidity Analyst"
-  organization: "Market Analysis"
+  created_date: "2025-11-05"
+  last_modified: "2025-11-05"
+  author: "HCM Industry Practice"
+  organization: "Strategic Advisory"
 
 generation_settings:
   claude_model: "claude-sonnet-4-20250514"
   prompt_template_version: "1.0"
-  generation_mode: "batch"
+  generation_mode: "comprehensive"
 
 tracking:
-  project_id: "market-liquidity-analysis-v1"
+  project_id: "hcm-industry-expert-v1"
   tags:
-    - "liquidity-analysis"
-    - "monetary-policy"
-    - "central-banks"
-    - "market-cycles"
-    - "michael-howell"
-  notes: "Skill for conducting comprehensive market liquidity analysis following Michael Howell's CrossBorder Capital methodology, including liquidity cycle identification, central bank analysis, cross-border flows, and asset price implications"
+    - "hcm"
+    - "enterprise-software"
+    - "investment-banking"
+    - "management-consulting"
+    - "strategic-advisory"
+    - "human-capital-management"
+    - "saas"
+    - "hr-technology"
+  notes: "Comprehensive skill for HCM industry expertise combining investment banking and management consulting capabilities. Provides market analysis, competitive intelligence, strategic recommendations, and forward-looking insights for HCM enterprise software companies, investors, and buyers."
 
 # ==============================================================================
 # OUTPUT PREFERENCES
@@ -191,3 +427,23 @@ output:
   sample_data_style: "realistic"
   
   test_scenario_depth: "comprehensive"
+  
+  example_prompts:
+    - "Analyze our current GTM structure: 25 AEs with 65% quota attainment, 9-month avg sales cycle, $150K ACV. Compare to industry benchmarks and recommend 3 specific optimizations based on proven HCM playbooks."
+    - "Our recent bookings show 30% win rate in mid-market but only 15% in enterprise. Diagnose the root cause and design a strategy to improve enterprise performance to 25%+ within 6 months."
+    - "Evaluate our sales team structure: Should we move from geographic territories to vertical specialization (healthcare, retail, tech)? What's worked for similar HCM vendors?"
+    - "Design an optimal compensation plan for our ATS sales team that drives both new logos and expansion. Include base/variable split, accelerators, and SPIFs based on HCM industry standards."
+    - "Our sales cycle is 6 months vs. 4-month industry average. Analyze our pipeline stages and recommend specific tactics to compress cycle time based on what's proven effective."
+    - "Build vs. buy analysis: Should we build an inside sales team for SMB (<500 employees) or continue all-field? Model the unit economics and payback period."
+    - "Analyze our lead conversion funnel: 2% MQL→SQL, 20% SQL→Opp, 25% Opp→Close. Where are we underperforming and what are the quick wins?"
+    - "Assess whether to invest in channel partners or expand direct sales. What's the optimal mix for a mid-market talent management platform, and what have similar vendors done?"
+    - "Analyze the competitive landscape for mid-market talent acquisition platforms and identify white space opportunities for a new entrant with $5M in funding"
+    - "Assess our talent management product roadmap given the rise of skills-based organizations and internal talent marketplaces. What should we prioritize over the next 18 months?"
+    - "Evaluate whether we should build, buy, or partner for AI-powered candidate matching capabilities. Provide a decision framework with financial implications."
+    - "Develop a market entry strategy for our workforce management solution targeting the healthcare vertical. What are the key success factors and potential obstacles?"
+    - "Analyze how generative AI will transform talent acquisition over the next 3-5 years. What are the implications for ATS vendors and where should we invest?"
+    - "We're considering acquiring an employee engagement platform with $25M ARR. Conduct a strategic assessment and valuation analysis."
+    - "Optimize our core HR implementation methodology to reduce time-to-value from 6 months to 3 months while maintaining quality and customer satisfaction."
+    - "Compare the strategic positioning of Workday vs. Oracle HCM Cloud in the enterprise market. Where are the competitive vulnerabilities?"
+    - "Assess the viability of consolidating our 8-vendor HCM stack into 2-3 platforms. What's the business case and implementation approach?"
+    - "Provide a forward-looking analysis on how skills ontologies and talent marketplaces will reshape enterprise talent management strategies."
