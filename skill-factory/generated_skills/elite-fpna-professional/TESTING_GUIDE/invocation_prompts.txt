@@ -1,0 +1,261 @@
+ELITE FP&A PROFESSIONAL - INVOCATION PROMPTS
+==============================================
+
+This file contains example prompts to invoke and test the Elite FP&A Professional skill.
+
+-----------------------------------------------------------
+BASIC INVOCATION PROMPTS
+-----------------------------------------------------------
+
+1. COMPREHENSIVE FINANCIAL ANALYSIS
+"Analyze these financial statements and provide a comprehensive CFO-level assessment. 
+Identify key performance drivers, red flags, and strategic recommendations."
+
+2. EXECUTIVE SUMMARY REQUEST
+"Provide an executive summary of this company's financial health. What are the top 
+3 strengths and top 3 concerns?"
+
+3. PROFITABILITY DEEP DIVE
+"Conduct a detailed profitability analysis. Where are we making money? Where are we 
+losing money? What should we do about it?"
+
+4. CASH FLOW ANALYSIS
+"Analyze our cash flow and working capital. Why is our cash balance declining despite 
+strong net income? What actions should we take?"
+
+5. RED FLAG IDENTIFICATION
+"Identify financial red flags in these statements. What concerns should management 
+and the board be aware of?"
+
+-----------------------------------------------------------
+VARIANCE ANALYSIS PROMPTS
+-----------------------------------------------------------
+
+6. BUDGET VS ACTUAL
+"Perform variance analysis for Q3 results vs. budget. What drove the performance miss? 
+What corrective actions do you recommend?"
+
+7. MARGIN ANALYSIS
+"Analyze why our margins are declining. Is it pricing pressure, cost inflation, or 
+unfavorable mix? What's the solution?"
+
+8. REVENUE VARIANCE
+"Our revenue came in 15% below budget this quarter. Decompose the variance into volume, 
+price, and mix effects."
+
+9. COST VARIANCE
+"Operating expenses are $500K over budget. Analyze the drivers and recommend actions."
+
+-----------------------------------------------------------
+STRATEGIC ANALYSIS PROMPTS
+-----------------------------------------------------------
+
+10. CUSTOMER PROFITABILITY
+"Analyze our customer profitability. Which customers are most valuable? Where should 
+we focus our sales efforts?"
+
+11. COST OPTIMIZATION
+"Evaluate our cost structure and identify opportunities for margin expansion. Provide 
+a detailed cost optimization roadmap."
+
+12. WORKING CAPITAL EFFICIENCY
+"Assess our working capital efficiency. How do we compare to industry peers? What 
+improvements would you recommend?"
+
+13. CAPITAL STRUCTURE
+"Evaluate our capital structure. Do we have too much/too little debt? What's the 
+optimal financing strategy?"
+
+14. STRATEGIC INITIATIVE
+"Perform strategic financial analysis for a potential product line expansion. What's 
+the expected ROI? What are the risks?"
+
+-----------------------------------------------------------
+MODELING & FORECASTING PROMPTS
+-----------------------------------------------------------
+
+15. FINANCIAL MODEL
+"Build a 3-year financial model with base/upside/downside scenarios. Include revenue 
+drivers, cost structure, and cash flow projections."
+
+16. CASH RUNWAY
+"Forecast our cash needs for the next 18 months. Do we need to raise capital? If so, 
+how much and when?"
+
+17. SCENARIO ANALYSIS
+"Model three scenarios: base case (20% growth), upside (35% growth), and downside 
+(10% growth). What are the financial implications of each?"
+
+18. SENSITIVITY ANALYSIS
+"Perform sensitivity analysis on our financial model. What happens if gross margins 
+compress by 200bp? Or if growth slows to 15%?"
+
+-----------------------------------------------------------
+INDUSTRY-SPECIFIC PROMPTS
+-----------------------------------------------------------
+
+19. SAAS METRICS (For SaaS companies)
+"Calculate and analyze our SaaS metrics including ARR growth, NRR, GRR, CAC, LTV, 
+CAC payback, Rule of 40, and Magic Number."
+
+20. RETAIL METRICS (For Retail companies)
+"Analyze our retail performance: same-store sales, inventory turnover, gross margin 
+trends, and working capital efficiency."
+
+21. UNIT ECONOMICS
+"Analyze our unit economics. What's the true cost to acquire a customer vs. their 
+lifetime value? Is our business model fundamentally profitable at scale?"
+
+-----------------------------------------------------------
+DASHBOARD & REPORTING PROMPTS
+-----------------------------------------------------------
+
+22. EXECUTIVE DASHBOARD
+"Create an executive dashboard for the CEO and board. What are the 10 most important 
+metrics to track?"
+
+23. KPI FRAMEWORK
+"Develop a comprehensive KPI framework for our business. What metrics should we track 
+monthly/quarterly?"
+
+24. BOARD REPORT
+"Prepare a board-ready financial analysis report with executive summary, key findings, 
+red flags, and recommendations."
+
+-----------------------------------------------------------
+COMPARATIVE ANALYSIS PROMPTS
+-----------------------------------------------------------
+
+25. PEER BENCHMARKING
+"How do our financial metrics compare to industry benchmarks? Where are we 
+overperforming or underperforming?"
+
+26. TREND ANALYSIS
+"Analyze financial trends over the past 3 years. What patterns emerge? Are trends 
+improving or deteriorating?"
+
+27. PERFORMANCE ATTRIBUTION
+"Why did our EBITDA margin expand 300bp this year? Decompose the drivers (revenue 
+growth, gross margin, operating leverage, etc.)."
+
+-----------------------------------------------------------
+SPECIALIZED ANALYSIS PROMPTS
+-----------------------------------------------------------
+
+28. QUALITY OF EARNINGS
+"Assess the quality of earnings. How much of net income is converting to cash? Are 
+there any accounting red flags?"
+
+29. PRICING STRATEGY
+"Analyze our pricing strategy. Are we leaving money on the table? Where can we raise 
+prices without impacting volume?"
+
+30. OPERATIONAL EFFICIENCY
+"Evaluate our operational efficiency vs. competitors. Where are we underperforming? 
+What drives the gap?"
+
+31. DUE DILIGENCE
+"Perform due diligence-level financial analysis on these statements for a potential 
+acquisition or investment."
+
+32. TURNAROUND ANALYSIS
+"This company is underperforming. Perform a turnaround analysis: identify root causes 
+and develop a financial improvement roadmap."
+
+-----------------------------------------------------------
+REAL-WORLD SCENARIO PROMPTS
+-----------------------------------------------------------
+
+33. BOARD MEETING PREP
+"The board meeting is next week. Analyze our Q2 results and prepare talking points: 
+highlights, concerns, and recommendations."
+
+34. INVESTOR MEETING PREP
+"We're meeting with investors next month. Prepare a comprehensive financial analysis 
+highlighting our strengths and addressing potential concerns."
+
+35. BUDGET REVIEW
+"Review our annual budget submission. Is it realistic? What are the risks and 
+opportunities?"
+
+36. MONTHLY CLOSE
+"It's month-end. Analyze the preliminary results vs. forecast. What are the key 
+variances and what happened?"
+
+-----------------------------------------------------------
+ADVANCED ANALYSIS PROMPTS
+-----------------------------------------------------------
+
+37. COMPREHENSIVE RATIO ANALYSIS
+"Calculate comprehensive financial ratios (liquidity, profitability, efficiency, 
+leverage) and interpret the results."
+
+38. DUPONT ANALYSIS
+"Perform DuPont analysis on our ROE. What's driving our return: profitability, 
+efficiency, or leverage?"
+
+39. CASH FLOW WATERFALL
+"Create a cash flow waterfall showing how we got from last quarter's ending cash 
+to this quarter's ending cash."
+
+40. MARGIN BRIDGE
+"Build a margin bridge showing how we got from last year's gross margin of 42% 
+to this year's 38%. What drove the compression?"
+
+-----------------------------------------------------------
+TESTING DIFFERENT BUSINESS SCENARIOS
+-----------------------------------------------------------
+
+41. HIGH GROWTH, UNPROFITABLE
+"We're growing 80% YoY but burning $2M/month. Analyze our path to profitability 
+and cash runway."
+
+42. MATURE, PROFITABLE
+"We're a mature business growing 8% with 25% EBITDA margins. Analyze our performance 
+and recommend strategies to re-accelerate growth."
+
+43. SEASONAL BUSINESS
+"Our business is highly seasonal (70% of revenue in Q4). Analyze our working capital 
+needs and cash flow patterns."
+
+44. TURNAROUND SITUATION
+"We've been declining for 3 years. Perform a diagnostic analysis and develop a 
+turnaround roadmap."
+
+45. RAPID SCALE-UP
+"We're rapidly scaling from $10M to $50M revenue. What financial and operational 
+challenges should we anticipate?"
+
+-----------------------------------------------------------
+USAGE NOTES
+-----------------------------------------------------------
+
+TIPS FOR EFFECTIVE USE:
+
+1. PROVIDE CONTEXT: Include company description, industry, and any specific concerns
+
+2. ATTACH DATA: Upload financial statements (Excel, PDF, or image) for best results
+
+3. BE SPECIFIC: The more specific your question, the more targeted the analysis
+
+4. REQUEST FORMAT: Specify if you want executive summary, detailed report, Excel model, etc.
+
+5. MULTIPLE PERIODS: Provide multiple periods (quarters/years) for trend analysis
+
+6. BENCHMARK REQUEST: Ask for industry benchmarking if relevant comp data exists
+
+7. FOLLOW-UP: Ask follow-up questions to drill deeper into specific areas
+
+EXAMPLES OF CONTEXT:
+
+"We're a $25M ARR SaaS company growing 40% YoY, serving mid-market enterprises. 
+[Then include your specific request]"
+
+"We're a traditional manufacturing company with $100M revenue in the automotive 
+parts sector. [Then include your specific request]"
+
+"We're an early-stage startup with $2M in revenue, burning $300K/month. 
+[Then include your specific request]"
+
+-----------------------------------------------------------
+

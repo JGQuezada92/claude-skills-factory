@@ -1,0 +1,169 @@
+M&A Due Diligence Expert - Invocation Prompts
+
+====================================================================
+
+PROMPT 1: Comprehensive Due Diligence Request
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you make something amazing with it?
+
+I'm evaluating a $75M ARR SaaS company acquisition in the talent management space. Please perform comprehensive due diligence focusing on:
+- Quality of earnings analysis
+- Customer concentration risk (I'll upload their customer list)
+- Technology stack scalability assessment
+- Synergy quantification with our existing HR tech portfolio
+
+Attached: financial_statements.xlsx, customer_contracts.pdf, tech_architecture.pdf
+
+---
+
+PROMPT 2: Financial Analysis Focus
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you analyze these financials for due diligence purposes?
+
+I need a Quality of Earnings analysis on this enterprise software target. The attached financials show strong revenue growth, but I want to understand:
+- Revenue quality and sustainability
+- Any normalization adjustments needed for EBITDA
+- Working capital requirements
+- SaaS metrics (ARR, NRR, CAC, LTV)
+
+Please identify any red flags and provide normalized financial metrics.
+
+Attached: quarterly_financials_2023-2024.xlsx
+
+---
+
+PROMPT 3: Customer & Commercial Analysis
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you assess customer concentration risk?
+
+Please review the attached customer contracts (top 20 customers representing 65% of ARR) and analyze:
+- Customer concentration risk
+- Contract terms (auto-renewal rates, termination rights, pricing)
+- Churn risk by customer segment
+- Revenue quality and sustainability
+
+Flag any concerning terms or dependencies that could impact valuation.
+
+Attached: top20_customer_contracts.pdf
+
+---
+
+PROMPT 4: Valuation Analysis
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you perform a comprehensive valuation?
+
+I need a valuation analysis for this $150M CRM acquisition using multiple methodologies:
+- DCF valuation (use 10% WACC, 3% terminal growth)
+- Comparable company analysis (I'll provide peer data)
+- Precedent transaction analysis
+
+Please provide a valuation range with base/upside/downside scenarios and identify key value drivers.
+
+Attached: financial_model.xlsx, comparable_companies.xlsx, precedent_transactions.xlsx
+
+---
+
+PROMPT 5: Risk Assessment
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you create a comprehensive risk register?
+
+After reviewing the attached data room materials, please develop a risk register that includes:
+- All identified risks across financial, commercial, technology, operational, and legal areas
+- Probability and impact scoring for each risk
+- Deal-breaker identification
+- Mitigation strategies
+- Top 10 risks requiring immediate attention
+
+Attached: data_room_index.xlsx, financial_statements.xlsx, material_contracts.pdf
+
+---
+
+PROMPT 6: Technology Due Diligence
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you assess the technology stack?
+
+Please evaluate the target's technology infrastructure:
+- Architecture assessment (cloud platform, languages, frameworks)
+- Technical debt evaluation and scoring
+- Scalability analysis
+- Cybersecurity posture (review attached SOC 2 report)
+- IP portfolio strength
+
+Provide a technical debt remediation cost estimate and integration complexity assessment.
+
+Attached: tech_architecture.pdf, soc2_report.pdf, product_roadmap.pdf
+
+---
+
+PROMPT 7: Integration Planning
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you develop a 100-day integration plan?
+
+We're acquiring a competitor and need a detailed integration plan including:
+- Day 1 priorities and critical path
+- 100-day milestones by workstream
+- Key employee retention strategy (identify critical roles and suggest retention packages)
+- Customer communication plan
+- Systems integration approach (we both use Salesforce, different ERPs)
+- Quick wins for early momentum
+
+Target company has 200 employees, 500 enterprise customers, $50M ARR.
+
+---
+
+PROMPT 8: Synergy Quantification
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you quantify synergies for this acquisition?
+
+Please analyze revenue and cost synergies from acquiring this competitor:
+- Revenue synergies (cross-sell to our 1,000 customer base, pricing optimization)
+- Cost synergies (headcount reduction, vendor consolidation, facility optimization)
+- Assign confidence levels (high/medium/low) to each synergy
+- Develop 3-year realization timeline
+- Estimate one-time implementation costs
+- Calculate NPV of total synergies
+
+Our revenue: $200M, Target revenue: $50M, customer overlap: ~10%
+
+---
+
+PROMPT 9: Investment Committee Memo
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you create a comprehensive IC memo?
+
+I need a complete Investment Committee memo (25-40 pages) for our board presentation covering:
+- Executive summary with recommendation
+- Strategic rationale and market opportunity
+- Financial analysis (QoE findings, normalized metrics)
+- Commercial diligence findings
+- Technology and product assessment
+- Risk register with mitigation strategies
+- Synergy analysis
+- Valuation (DCF, comps, precedents)
+- Integration plan overview
+- Appendices with supporting detail
+
+Deal: $150M acquisition of mid-market CRM platform, 40% market overlap with our existing product
+
+Attached: complete_data_room.zip
+
+---
+
+PROMPT 10: Deal-Breaker Assessment
+---
+Hey Claude—I just added the "ma-due-diligence-expert" skill. Can you identify potential deal-breakers?
+
+We're in Week 2 of diligence on a $100M SaaS acquisition. Please review the attached materials and identify:
+- Any strategic deal-breakers that would cause us to walk away
+- Material risks that require price adjustment or earnout structure
+- Issues that can be mitigated post-close
+- Missing information requiring additional diligence
+
+Focus on: customer concentration (top 3 customers = 45% of revenue), pending litigation, founder retention risk
+
+Attached: customer_analysis.xlsx, litigation_summary.pdf, org_chart.pdf
+
+====================================================================
+
+These prompts cover the major use cases for M&A due diligence from strategic assessment through integration planning, ensuring comprehensive testing of all skill capabilities.
+

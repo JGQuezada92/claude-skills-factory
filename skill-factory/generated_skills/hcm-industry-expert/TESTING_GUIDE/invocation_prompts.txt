@@ -1,0 +1,95 @@
+Hey Claude—I just added the "hcm-industry-expert" skill. Can you analyze our current GTM structure: 25 AEs with 65% quota attainment, 9-month avg sales cycle, $150K ACV. Compare to industry benchmarks and recommend 3 specific optimizations based on proven HCM playbooks. Create a comprehensive Word document and Markdown report with your findings.
+
+[Additional context about company size, market segment, and current challenges]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Our recent bookings show 30% win rate in mid-market but only 15% in enterprise. Diagnose the root cause and design a strategy to improve enterprise performance to 25%+ within 6 months. Create a comprehensive Word document and Markdown report with your analysis.
+
+[Additional context about sales team structure and competitive positioning]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. I've described our current recruiting process below. Can you analyze it against industry best practices and recommend improvements? Create a comprehensive Word document and Markdown report with your findings.
+
+[Current recruiting process description: step-by-step workflow, metrics, pain points]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Can you evaluate our sales team structure: Should we move from geographic territories to vertical specialization (healthcare, retail, tech)? What's worked for similar HCM vendors? Create a strategic analysis deck.
+
+[Additional context about current structure, customer base, and sales performance]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Can you analyze the competitive landscape for mid-market talent acquisition platforms and identify white space opportunities for a new entrant with $5M in funding? Create a comprehensive Word document and Markdown report.
+
+[Additional context about target market, differentiation strategy]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Can you assess our talent management product roadmap given the rise of skills-based organizations and internal talent marketplaces. What should we prioritize over the next 18 months? Create a strategic analysis deck.
+
+[Additional context about current product capabilities and market position]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. We're considering acquiring an employee engagement platform with $25M ARR. Conduct a strategic assessment and valuation analysis. Create a comprehensive Word document and Markdown report with your findings.
+
+[Additional context about strategic rationale and integration considerations]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Can you provide a forward-looking analysis on how generative AI will transform talent acquisition over the next 3-5 years? What are the implications for ATS vendors and where should we invest? Create a strategic foresight deck.
+
+[Additional context about current AI capabilities and investment priorities]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Can you optimize our core HR implementation methodology to reduce time-to-value from 6 months to 3 months while maintaining quality and customer satisfaction? Create a comprehensive Word document and Markdown report with recommendations.
+
+[Additional context about current implementation process, resources, and constraints]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Compare the strategic positioning of Workday vs. Oracle HCM Cloud in the enterprise market. Where are the competitive vulnerabilities? Create a competitive analysis deck.
+
+[Additional context about specific analysis focus or use case]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Design an optimal sales compensation plan for our mid-market ATS sales team that drives both new logos and expansion revenue. Include base/variable split, accelerators, and SPIFs based on HCM industry standards. Create a comprehensive Word document and Markdown report.
+
+[Additional context about current compensation structure and business objectives]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Analyze our lead conversion funnel: 2% MQL→SQL, 20% SQL→Opp, 25% Opp→Close. Where are we underperforming and what are the quick wins? Create a funnel analysis deck.
+
+[Additional context about marketing channels, sales process, and segment breakdown]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Evaluate whether we should build, buy, or partner for AI-powered candidate matching capabilities. Provide a decision framework with financial implications. Create a comprehensive Word document and Markdown report.
+
+[Additional context about current capabilities, resources, and strategic priorities]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Develop a market entry strategy for our workforce management solution targeting the healthcare vertical. What are the key success factors and potential obstacles? Create a strategic analysis deck.
+
+[Additional context about current market presence and product capabilities]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Assess the viability of consolidating our 8-vendor HCM stack into 2-3 platforms. What's the business case and implementation approach? Create a comprehensive Word document and Markdown report with your analysis.
+
+[Additional context about current vendors, integration complexity, and business requirements]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Our sales cycle is 6 months vs. 4-month industry average. Analyze our pipeline stages and recommend specific tactics to compress cycle time based on what's proven effective for similar HCM vendors. Create a comprehensive Word document and Markdown report.
+
+[Additional context about pipeline data, sales process, and competitive dynamics]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Build vs. buy analysis: Should we build an inside sales team for SMB (<500 employees) or continue with our current all-field approach? Model the unit economics and payback period. Create a strategic analysis deck.
+
+[Additional context about current SMB performance, resources, and business model]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Assess whether to invest in channel partners or expand direct sales. What's the optimal mix for a mid-market talent management platform, and what have similar vendors done? Create a channel strategy deck.
+
+[Additional context about current channel relationships, partner economics, and market dynamics]
+---
+
+Hey Claude—I just added the "hcm-industry-expert" skill. Provide a forward-looking analysis on how skills ontologies and talent marketplaces will reshape enterprise talent management strategies. Create a strategic foresight PowerPoint presentation.
+
+[Additional context about current skills initiatives and market positioning]
+---
+
