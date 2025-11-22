@@ -9,37 +9,24 @@ You are an expert Claude Skills architect tasked with creating professional, pro
 You will generate **1** Claude Skills for the following business context:
 
 **Business Description:**
-I am an elite M&A analyst and investment banker specializing in technology sector 
-acquisitions with 15+ years of experience conducting comprehensive due diligence at 
-top-tier institutions. My expertise spans all functional workstreams of M&A due 
-diligence including financial analysis (Quality of Earnings, working capital, cash flow 
-modeling), commercial assessment (customer analysis, unit economics, go-to-market 
-effectiveness), technology evaluation (tech stack, IP, scalability, cybersecurity), 
-operational review (org structure, key person risk, efficiency metrics), and legal/
-regulatory compliance. I specialize in enterprise software, SaaS, and technology 
-infrastructure deals ranging from $10M bolt-on acquisitions to $500M+ transformational 
-transactions. I synthesize methodologies from Goldman Sachs (hypothesis-driven approach 
-with red flag matrices), JP Morgan (deal scorecards with weighted criteria), and Morgan 
-Stanley (systematic data room analysis) to provide comprehensive, Investment Committee-
-ready analysis. My deliverables include detailed IC memos, financial models with scenario 
-analysis, risk-adjusted valuations, synergy quantification, and detailed integration 
-roadmaps that enable confident investment decisions.
+Lifelong learner seeking efficient, systematic learning automation across 
+any domain. Need to rapidly acquire expert-level knowledge in diverse fields 
+ranging from technical subjects (AI agent development, quantum computing) to 
+business disciplines (M&A analysis, financial modeling, strategic planning) 
+to creative and academic domains. Require consistent, standardized learning 
+format that works across all topics for easier cognitive processing and 
+retention. Value both depth and accessibility - need complex topics distilled 
+without losing rigor.
 
-**Industry:** Technology M&A - Investment Banking & Due Diligence
+**Industry:** Education Technology / Personal Learning Automation
 
-**Team Size:** 1-5
+**Team Size:** 1 (Personal Use)
 
-**Primary Workflows:** - Strategic Assessment & Investment Thesis Validation
-- Financial Due Diligence & Quality of Earnings Analysis
-- Commercial Due Diligence & Customer Analysis
-- Technology & Product Due Diligence
-- Operational Due Diligence & Management Assessment
-- Legal & Regulatory Due Diligence
-- Risk Assessment & Deal-Breaker Identification
-- Synergy Analysis & Value Creation Planning
-- Integration Planning & Execution Roadmap
-- Valuation Modeling & Deal Structuring
-- Data Room Analysis & Document Review
+**Primary Workflows:** - Rapid topic research and resource curation
+- Knowledge synthesis and comprehension
+- Multi-modal learning (visual + audio)
+- Spaced repetition and long-term retention
+- Applied project-based learning
 
 **Overlap Strategy:** overlapping
 
@@ -247,338 +234,264 @@ description: Use this skill when you want to analyze financial data.
 
 ## Your Task: Generate Skills for These Use Cases
 
-### Use Case 1: M&A Due Diligence Expert
+### Use Case 1: Universal Learning Tutor - Domain-Agnostic Knowledge Distillation
 
 **Description:**
-Act as an elite M&A analyst and investment banker conducting comprehensive due diligence 
-on technology sector acquisitions. This skill should deliver institutional-quality analysis 
-across all functional workstreams of M&A due diligence, synthesizing methodologies from 
-top-tier investment banks (Goldman Sachs, JP Morgan, Morgan Stanley) to provide Investment 
-Committee-ready recommendations, risk assessments, and integration plans.
+A truly universal personal learning tutor that transforms ANY subject into a 
+comprehensive, expert-level learning experience. Works across all domains: 
+technical fields (AI, quantum physics, engineering), business disciplines 
+(strategy, M&A, finance), creative domains (design, music, writing), academic 
+subjects (sciences, humanities, mathematics), and specialized knowledge 
+(legal, medical, skilled trades).
 
-**Core Expertise Areas:**
+CORE CAPABILITIES:
 
-1. **Strategic Assessment & Investment Thesis:**
-   - Investment thesis validation and strategic rationale analysis
-   - Market opportunity sizing (TAM/SAM/SOM methodology)
-   - Competitive positioning and market share analysis
-   - Strategic fit assessment with acquirer's portfolio
-   - Deal structure evaluation (asset vs. stock, earnouts, reps & warranties)
-   - Accretion/dilution analysis for public company acquirers
-   - Alternative scenarios and walk-away analysis
+UNIVERSAL EXPERTISE: Synthesizes expert-level knowledge across the entire 
+knowledge landscape. Mirrors the teaching style, depth, and insights of top 
+practitioners in each field. Adapts pedagogical approach to match the nature 
+of the subject (quantitative, qualitative, creative, technical, etc.).
 
-2. **Financial Due Diligence:**
-   - Quality of Earnings (QoE) analysis with normalization adjustments
-   - Working capital analysis and peg calculations
-   - Revenue quality assessment (sustainability, concentration, growth drivers)
-   - Normalized EBITDA calculations (one-time items, non-recurring expenses)
-   - Cash flow modeling and free cash flow analysis
-   - Historical performance vs. management projections variance analysis
-   - SaaS metrics for software targets (ARR, NRR, GRR, CAC, LTV, Rule of 40, magic number)
-   - Bookings vs. billings vs. revenue reconciliation
-   - Deferred revenue analysis and contract liability assessment
-   - Debt structure and refinancing requirements
+COMPLEXITY DISTILLATION: Unrivaled ability to break down nuanced, complex 
+topics into clear, understandable components without losing depth or rigor. 
+Makes quantum mechanics as accessible as Renaissance art history while 
+maintaining intellectual honesty and expert-level precision.
 
-3. **Commercial Due Diligence:**
-   - Customer concentration risk and top customer analysis
-   - Customer retention rates and churn analysis by cohort
-   - Unit economics analysis (LTV/CAC ratio, payback periods, cohort profitability)
-   - Go-to-market effectiveness (sales productivity, win rates, sales cycle length)
-   - Pipeline quality and conversion funnel analysis
-   - Pricing power assessment and competitive pricing benchmarking
-   - Revenue mix analysis (new vs. expansion, geographies, segments)
-   - Customer satisfaction metrics (NPS, CSAT, reference call feedback)
-   - Competitive win/loss trends and market position
-   - Market growth rates and penetration opportunity
+STRUCTURED THREE-PHASE AUTOMATION:
 
-4. **Technology & Product Due Diligence:**
-   - Technology stack assessment (architecture, languages, frameworks, cloud infrastructure)
-   - Technical debt evaluation and modernization requirements
-   - Product roadmap review and R&D pipeline assessment
-   - Intellectual property portfolio analysis (patents, trademarks, copyrights)
-   - Open source license compliance review
-   - Cybersecurity posture assessment (SOC 2, ISO 27001, penetration testing results)
-   - Scalability analysis and infrastructure capacity
-   - API architecture and integration capabilities
-   - Mobile and multi-platform support
-   - Data architecture and database performance
-   - Development team quality and R&D productivity metrics
-   - Product-market fit validation
+PHASE 1 - RESEARCH: Aggregates and ranks the best learning resources across 
+the knowledge spectrum. Evaluates courses (Coursera, Udemy, MasterClass), 
+articles, videos, papers, books, podcasts, expert content. Ranks by quality, 
+depth, pedagogical value, and unique perspectives. Includes both free and 
+paid resources with clear labeling. Outputs ranked resource list with 
+annotations explaining why each matters.
 
-5. **Operational Due Diligence:**
-   - Organizational structure review and span of control analysis
-   - Key person risk identification and dependency mapping
-   - Management team assessment (experience, track record, retention risk)
-   - Operational efficiency benchmarking (revenue per employee, G&A ratios)
-   - Systems and processes evaluation
-   - Vendor relationships and dependency analysis
-   - Real estate and facility assessment
-   - Human capital analysis (headcount trends, turnover, compensation benchmarking)
+PHASE 2 - PRIMING: Generates structured knowledge map showing how the topic 
+is organized. Creates pre-assessment quiz (10 questions) to establish baseline 
+understanding. Provides 1-paragraph overviews for each major subtopic to 
+orient learner. Suggests hands-on project prompts for applied learning. 
+Outputs complete learning roadmap with quizzes and orientation materials.
 
-6. **Legal & Regulatory Due Diligence:**
-   - Material contracts review (customer, supplier, partnership agreements)
-   - Customer contract terms analysis (auto-renewal rates, termination rights, payment terms)
-   - Employment agreements and executive compensation review
-   - Litigation history and ongoing disputes assessment
-   - Regulatory compliance verification (industry-specific, data privacy, export controls)
-   - IP ownership verification and freedom-to-operate analysis
-   - Data privacy compliance (GDPR, CCPA, sector-specific regulations)
-   - Material change of control provisions in contracts
+PHASE 3 - COMPREHENSION: Extracts key definitions, mental models, frameworks, 
+and worked examples from each subtopic. Structures knowledge into standardized 
+learning notes that build from foundational to advanced. Includes spaced 
+repetition prompts for long-term retention and active learning exercises. 
+Identifies common pitfalls and expert insights. Outputs complete study guide 
+ready for immediate use.
 
-7. **Risk Assessment & Mitigation:**
-   - Comprehensive risk register with probability and impact scoring
-   - Deal-breaker identification (strategic, financial, operational, legal)
-   - Red flag matrix with severity ratings (high/medium/low)
-   - Mitigation strategy development for identified risks
-   - Contingency planning for key risk scenarios
-   - Insurance coverage review and gap analysis
-   - Regulatory approval risks (antitrust, CFIUS for foreign buyers)
+STANDARDIZED OUTPUT: Every topic follows identical format regardless of 
+domain, enabling rapid familiarization with new content. Output optimized 
+for multi-modal consumption: visual reading, audio conversion (NotebookLM 
+podcasts), and integration with note-taking systems (Obsidian, Notion).
 
-8. **Synergy Analysis & Value Creation:**
-   - Revenue synergy identification and quantification
-   - Cost synergy analysis (headcount reduction, vendor consolidation, facility optimization)
-   - Cross-sell opportunities with existing customer base
-   - Technology synergies and platform consolidation opportunities
-   - Synergy realization timeline with phasing plan
-   - Confidence levels for synergy assumptions (high/medium/low probability)
-   - Dis-synergies and one-time integration costs
-   - Stand-alone value vs. synergy value bridge
+LEARNING OUTCOMES: Transforms learners from novice to expert in any subject 
+through systematic knowledge acquisition, expert-level insight, and complexity 
+management. Designed to help learners of any caliber achieve mastery through 
+structured, distilled, and actionable learning materials.
 
-9. **Integration Planning:**
-   - Day 1 readiness assessment and critical path activities
-   - 100-day integration plan with milestones and owners
-   - Cultural compatibility assessment and change management requirements
-   - Key employee retention strategy and compensation planning
-   - Customer communication plan and retention strategy
-   - Systems integration roadmap (ERP, CRM, HR systems)
-   - Legal entity structure and consolidation plan
-   - Branding and go-to-market integration approach
-   - Quick wins identification for early momentum
+OUTPUT FORMAT SPECIFICATION:
 
-**Analysis Capabilities:**
+Every learning guide follows this exact structure for consistency:
 
-The skill should be able to handle requests like:
-- "Perform comprehensive due diligence on this $75M ARR SaaS company. Data room attached. 
-  Focus on quality of earnings, customer concentration risk, and technology scalability."
-- "Analyze the financial statements for this enterprise software target. Identify any 
-  red flags in revenue quality, margin trends, or working capital requirements."
-- "Review these top 20 customer contracts. Assess revenue concentration, churn risk, 
-  auto-renewal rates, and any concerning terms or commitments."
-- "Create an Investment Committee memo for this $150M acquisition of a mid-market CRM 
-  platform. Include strategic rationale, key risks, valuation analysis, and integration plan."
-- "Build a 3-statement financial model for this target with base/upside/downside scenarios. 
-  Include normalized EBITDA adjustments and synergy assumptions."
-- "Assess the technology stack for this cloud infrastructure company. Evaluate technical 
-  debt, scalability, cybersecurity posture, and R&D productivity."
-- "Quantify potential revenue and cost synergies from acquiring this competitor. Provide 
-  confidence levels and 3-year realization timeline."
-- "Evaluate management team quality and identify key person risks. Recommend retention 
-  packages for critical employees."
-- "Analyze customer cohorts and unit economics. What's the true customer lifetime value 
-  and payback period?"
-- "Review this data room for deal-breakers. Create a prioritized list of top 10 risks 
-  with mitigation strategies."
-- "Assess go-to-market efficiency. How does CAC, win rate, and sales cycle compare to 
-  industry benchmarks?"
-- "Develop a 100-day integration plan with Day 1 priorities, quick wins, and critical 
-  path activities."
-- "Conduct Quality of Earnings analysis on these financials. Normalize for one-time items, 
-  non-recurring expenses, and related party transactions."
-- "Evaluate this target's competitive position. Analyze win/loss trends, market share, 
-  and sustainable competitive advantages."
-- "Assess integration complexity for this acquisition. What are the key risks and what 
-  resources will be required?"
+# [TOPIC] - Complete Learning Guide
 
-**Analytical Frameworks & Methodologies:**
-- Goldman Sachs hypothesis-driven due diligence with red flag matrices
-- JP Morgan deal scorecard methodology with weighted criteria
-- Morgan Stanley functional workstream approach
-- Quality of Earnings (QoE) normalization adjustments framework
-- Working capital peg analysis and target setting
-- Scenario-based financial modeling (base/upside/downside)
-- Comparable company analysis (trading multiples, growth/margin profiles)
-- Precedent transaction analysis (deal multiples, synergy assumptions)
-- DCF valuation with WACC calculations and terminal value analysis
-- Customer reference call frameworks and scoring rubrics
-- Management assessment rubrics (experience, track record, cultural fit)
-- Risk assessment matrices (probability x impact scoring)
-- Synergy waterfall analysis (revenue, cost, one-time costs)
-- Integration complexity assessment frameworks
-- Porter's Five Forces for market structure analysis
-- TAM/SAM/SOM market sizing for growth opportunities
-- Technology maturity assessment (technical debt scoring)
-- Cybersecurity maturity models (NIST, CIS frameworks)
+## Executive Summary
+[2-3 paragraphs: What this topic is, why it matters, what you'll achieve]
+[Written for audio: conversational, clear transitions]
 
-**Deal-Size Adaptive Framework:**
-- **Small Deals ($10-50M):** Focused 2-4 week diligence, emphasis on strategic fit, 
-  revenue quality, and key person risk. Streamlined deliverables with executive summary 
-  and top 5 risks/opportunities.
-- **Mid-Market ($50-250M):** Comprehensive 4-6 week multi-workstream diligence covering 
-  all functional areas. Full IC memo, detailed financial model, and integration plan.
-- **Large Deals ($250M+):** Extended 6-12 week deep-dive with specialist teams per 
-  workstream. Extensive scenario analysis, detailed synergy models, and complex 
-  integration planning with cultural assessment.
+## Learning Objectives
+By mastering this topic, you will:
+- Objective 1
+- Objective 2
+- Objective 3
+[Clear, measurable outcomes]
 
-**Phased Diligence Approach:**
-- **Phase 1 (Week 1):** Strategic assessment and preliminary fit analysis. Go/no-go decision.
-- **Phase 2 (Weeks 2-4):** Deep functional diligence across all workstreams. Risk identification.
-- **Phase 3 (Weeks 4-6):** Integration planning, synergy quantification, and deal structuring.
-- **Phase 4 (Week 6):** IC materials preparation and final recommendation.
+---
 
-**Output Requirements:**
+## PHASE 1: CURATED LEARNING RESOURCES
 
-1. **Investment Committee Memos (25-40 pages):**
-   - Executive summary (2-3 pages) with investment recommendation, deal rationale, 
-     key risks, valuation summary, and synergy overview
-   - Strategic assessment section (market opportunity, competitive position, strategic fit)
-   - Financial analysis section (QoE findings, normalized metrics, historical performance)
-   - Commercial diligence findings (customer analysis, unit economics, market position)
-   - Technology assessment (tech stack, IP, scalability, technical debt)
-   - Operational review (management team, org structure, key person risks)
-   - Risk register with mitigation strategies (prioritized by severity)
-   - Synergy analysis (revenue and cost synergies with confidence levels)
-   - Valuation summary (standalone and with synergies, multiple scenarios)
-   - Integration plan overview (Day 1 priorities, 100-day plan, critical success factors)
-   - Appendices (detailed financial schedules, customer lists, org charts)
+### Top-Tier Resources (Ranked by Quality)
 
-2. **PowerPoint Presentations:**
-   - Executive summary deck (15-20 slides) for IC presentation
-   - Professional investment banking formatting
-   - Key slides: Investment thesis, financial highlights, risk matrix, valuation bridge, 
-     synergy waterfall, integration roadmap
-   - Data visualizations (charts, tables, matrices)
-   - Use scripts/powerpoint_generator.py for consistent formatting
+**1. [Resource Name]** [FREE/PAID]
+- Type: Course / Article / Video / Book / Paper
+- Platform: [Where to find it]
+- Why This Matters: [1-2 sentence rationale]
+- Best For: [Beginner/Intermediate/Advanced]
+- Time Investment: [Duration/length]
+- Link: [URL]
 
-3. **Financial Models (Excel):**
-   - Integrated 3-statement model (P&L, balance sheet, cash flow)
-   - Historical financials (3-5 years) with normalization adjustments
-   - Projections with base/upside/downside scenarios
-   - Synergy models with revenue and cost synergies by year
-   - Working capital schedule and calculation
-   - DCF valuation with sensitivity analysis
-   - Comparable company analysis with multiples
-   - Precedent transaction analysis
-   - Accretion/dilution analysis
-   - Returns analysis (IRR, MOIC for PE buyers)
-   - Audit trails and assumption documentation
+[Repeat for 10-15 resources]
 
-4. **Due Diligence Findings Database:**
-   - Comprehensive issues list with tracking status
-   - Risk register with probability/impact scoring
-   - Deal-breaker flags and mitigation strategies
-   - Open items requiring additional diligence
-   - Data room document index with key findings
+### Resource Progression Path
+- **Foundation (Start Here)**: Resources 1-3
+- **Building Depth**: Resources 4-7
+- **Advanced Mastery**: Resources 8-10
+- **Supplementary Deep Dives**: Resources 11-15
 
-5. **Integration Planning Materials:**
-   - Day 1 readiness checklist
-   - 100-day integration plan with milestones
-   - Synergy realization roadmap
-   - Key employee retention plan
-   - Customer communication strategy
-   - Systems integration timeline
+---
 
-**Writing Style & Presentation:**
-- Investment banking-quality communication for IC and board consumption
-- Data-driven analysis with specific metrics, comparables, and quantitative benchmarking
-- Balanced perspective with explicit risks and upside/downside scenarios
-- Clear structure: Executive summary → Strategic rationale → Detailed findings → Risks 
-  → Valuation → Integration → Recommendation
-- Explicit distinction between facts (sourced from data room) vs. assumptions/estimates
-- Quantification of uncertainties and data gaps requiring additional diligence
-- Deal-size appropriate depth (streamlined for small deals, comprehensive for large deals)
-- Professional formatting consistent with Goldman Sachs/JP Morgan standards
-- Use of comps, precedent transactions, and industry benchmarks for context
-- Clear identification of deal-breakers vs. manageable risks
+## PHASE 2: LEARNING ROADMAP & PRIMING
 
-**Domain Knowledge Coverage:**
+### Knowledge Architecture (Table of Contents)
 
-- **M&A Due Diligence Methodologies:** Goldman Sachs hypothesis-driven approach with 
-  red flag matrices, JP Morgan deal scorecard with weighted criteria, Morgan Stanley 
-  functional workstream methodology, systematic data room analysis protocols, management 
-  assessment frameworks, customer reference call methodologies
+**1. Subtopic 1: [Name]**
+- Core concepts: Concept A, Concept B, Concept C
+- What you'll learn: [1-paragraph overview]
+- Why it matters: [Connection to bigger picture]
 
-- **Financial Analysis:** Quality of Earnings normalization adjustments (stock-based 
-  comp, one-time items, related party transactions, non-recurring expenses), working 
-  capital peg calculations and target setting, normalized EBITDA calculations, revenue 
-  quality assessment (concentration, growth sustainability, pricing power), cash conversion 
-  analysis, deferred revenue and billings analysis for SaaS
+**2. Subtopic 2: [Name]**
+[Repeat structure]
 
-- **SaaS Metrics & Unit Economics:** ARR/MRR analysis, net revenue retention (NRR) and 
-  gross retention (GRR), customer lifetime value (LTV), customer acquisition cost (CAC), 
-  LTV/CAC ratios (3:1 benchmark), CAC payback period (12-18 months benchmark), Rule of 40 
-  (growth rate + profit margin), magic number (ARR growth / sales & marketing spend), 
-  cohort analysis and retention curves
+[Continue for all major subtopics]
 
-- **Valuation Methodologies:** DCF modeling with WACC calculations, comparable company 
-  analysis (trading multiples - EV/Revenue, EV/EBITDA), precedent transaction analysis 
-  (M&A multiples with synergy assumptions), revenue multiple ranges by growth/margin profile, 
-  accretion/dilution analysis for public acquirers, IRR and MOIC returns for PE buyers
+### Pre-Assessment Quiz
+Test your baseline knowledge before diving in:
 
-- **Technology Due Diligence:** Cloud architecture assessment (AWS, Azure, GCP), API 
-  architecture and integration capabilities, technical debt scoring and modernization costs, 
-  scalability and infrastructure capacity, cybersecurity maturity (SOC 2, ISO 27001, 
-  penetration testing), IP portfolio analysis, open source license compliance, mobile 
-  and multi-platform support, data architecture and performance
+**Question 1**: [Question text]
+a) Option A
+b) Option B  
+c) Option C
+d) Option D
 
-- **Commercial Due Diligence:** Customer concentration thresholds (top 10 customers >30% 
-  is high risk), cohort retention analysis, go-to-market efficiency metrics (quota attainment, 
-  win rates, sales cycle length), pipeline coverage ratios (3-4x for healthy pipeline), 
-  pricing power assessment, competitive win/loss analysis, market sizing (TAM/SAM/SOM)
+**Answer**: [Letter] - **Explanation**: [Why this is correct and why others aren't]
 
-- **Integration Planning:** Day 1 readiness checklists, 100-day plan with milestones and 
-  owners, synergy quantification with confidence levels, retention packages for key employees 
-  (1.5-2x annual comp), cultural compatibility assessment, systems integration roadmap 
-  (ERP, CRM, HR systems), legal entity structure planning, customer communication strategies
+[Repeat for 10 questions covering all major concepts]
 
-- **Risk Assessment:** Probability x impact scoring matrices, deal-breaker identification 
-  frameworks, regulatory approval risks (antitrust thresholds, CFIUS for foreign buyers), 
-  customer/employee retention risks, technology migration risks, integration complexity scoring
+### Hands-On Project Prompts
+Apply learning through these projects:
 
-- **Technology Sectors:** Enterprise SaaS, cloud infrastructure, cybersecurity, developer 
-  tools, data/analytics platforms, vertical SaaS (fintech, healthtech, edtech), marketplaces, 
-  IT infrastructure, collaboration software
+**Project 1**: [Name]
+- Goal: [What you'll build/create]
+- Skills Practiced: [List]
+- Difficulty: [Beginner/Intermediate/Advanced]
+- Time: [Estimated hours]
 
-**Input Types Handled:**
-- Financial statements (P&L, balance sheet, cash flow statements)
-- Management presentations and business plans
-- Data room documents (contracts, agreements, policies, compliance docs)
-- Customer lists and contract details (terms, renewal dates, ARR by customer)
-- Sales pipeline and CRM data (opportunities, win rates, sales cycles)
-- Product roadmaps and technical documentation
-- Technology architecture diagrams and infrastructure docs
-- Organizational charts and employee lists
-- Compensation and benefits data
-- Cap tables and ownership structures
-- Market research and competitive intelligence reports
-- IP documentation (patents, trademarks, licenses)
-- Compliance and audit reports (SOC 2, ISO certifications, pen test results)
-- Legal documents (customer contracts, vendor agreements, employment agreements)
-- Historical board materials and management reports
-- Integration plans and synergy assumptions
+[Repeat for 3-5 projects progressing in complexity]
 
-**Success Criteria:**
-- Clear investment recommendation (proceed/pass/additional diligence) with supporting rationale
-- Comprehensive risk identification with probability/impact scoring and mitigation strategies
-- Quantified valuation with multiple methodologies (DCF, comps, precedents)
-- Synergy analysis with confidence levels and realistic realization timelines
-- Integration plan with specific Day 1 priorities and 100-day milestones
-- All financial analysis includes normalized adjustments with clear documentation
-- Data gaps and areas requiring additional diligence are explicitly flagged
-- Deliverables are Investment Committee-ready (executive summary, supporting analysis, appendices)
-- Deal-breakers are identified early with clear rationale
-- Analysis is balanced with both upside opportunities and downside risks
-- Comps and benchmarks provide market context for all key metrics
-- Assumptions are clearly stated with sensitivity analysis on key drivers
+---
+
+## PHASE 3: COMPREHENSIVE LEARNING NOTES
+
+### Subtopic 1: [Name]
+
+**CORE DEFINITION**
+[Clear, quotable definition that captures essence]
+
+**KEY CONCEPTS**
+- **Concept 1**: [Explanation in clear language]
+- **Concept 2**: [Explanation]
+- **Concept 3**: [Explanation]
+
+**MENTAL MODELS & FRAMEWORKS**
+- **Framework 1**: [Name and description]
+  - When to use: [Context]
+  - How it works: [Mechanics]
+  - Example application: [Real scenario]
+
+**WORKED EXAMPLE 1: [Title]**
+Problem/Scenario: [Setup]
+Step 1: [Action + reasoning]
+Step 2: [Action + reasoning]
+Step 3: [Action + reasoning]
+Solution: [Final answer]
+Key Takeaway: [What to remember]
+
+**WORKED EXAMPLE 2: [Title]**
+[Repeat structure]
+
+**COMMON PITFALLS & HOW TO AVOID THEM**
+- **Pitfall 1**: [What people get wrong]
+  - Why it happens: [Root cause]
+  - How to avoid: [Solution]
+
+**EXPERT INSIGHTS**
+[2-3 advanced tips from practitioners]
+
+**SPACED REPETITION PROMPTS**
+- Day 1: [Recall question]
+- Day 3: [Application question]
+- Week 1: [Synthesis question]
+- Week 2: [Teaching question - explain to others]
+
+---
+
+[REPEAT ENTIRE STRUCTURE FOR EACH SUBTOPIC]
+
+---
+
+## NEXT STEPS & ACTIVE LEARNING
+
+### Immediate Actions (This Week)
+1. [Specific action]
+2. [Specific action]
+3. [Specific action]
+
+### Ongoing Practice (This Month)
+1. [Practice routine]
+2. [Practice routine]
+
+### Mastery Path (Next 3-6 Months)
+1. [Long-term milestone]
+2. [Long-term milestone]
+
+### Community & Further Learning
+- [Forums/communities to join]
+- [Experts to follow]
+- [Adjacent topics to explore]
+
+---
+
+## APPENDIX: QUICK REFERENCE
+
+### Key Terms Glossary
+**Term 1**: Definition
+**Term 2**: Definition
+[Alphabetical list]
+
+### Essential Formulas/Frameworks
+[Cheat sheet format]
+
+### Recommended Tools & Resources
+[Software, apps, websites relevant to this topic]
+
+### Further Reading
+[5-10 advanced resources for going deeper]
+
+---
+
+*Generated by Universal Learning Tutor - Expert knowledge distillation for any subject*
+
+INVOCATION EXAMPLES:
+
+- "I want to learn about [quantum entanglement]. Use the universal-learning-tutor 
+  skill to create a complete learning guide. My current knowledge: Beginner. 
+  Learning goal: Understand the fundamentals and key experiments. Time available: 
+  5 hours per week. Preferred format: Both visual and audio."
+
+- "Teach me [M&A due diligence] using the learning tutor skill. I have 
+  intermediate business background. Goal: Lead due diligence projects. 
+  Time: 10 hours per week. Format: Visual primarily."
+
+- "I want to master [classical oil painting techniques]. Current level: Complete 
+  beginner. Goal: Create realistic portraits. Time: 3 hours per week. 
+  Format: Both visual and audio for commute learning."
+
+- "Help me learn [machine learning optimization algorithms]. Advanced mathematics 
+  background. Goal: Implement algorithms from scratch. Time: 15 hours per week. 
+  Format: Visual with code examples."
+
+- "Teach me [molecular biology of cancer]. Intermediate biology knowledge. 
+  Goal: Understand research papers in the field. Time: 8 hours per week. 
+  Format: Audio-friendly for podcast conversion."
 
 
 **Requirements:**
 - Python scripts needed: Yes
-- Sample data type for testing: excel
+- Sample data type for testing: text
 
 **What to create:**
-- Skill name: `m&a-due-diligence-expert`
+- Skill name: `universal-learning-tutor---domain-agnostic-knowledge-distillation`
 - Include `scripts/` folder: Yes
-- Testing materials: Provide realistic excel sample data
+- Testing materials: Provide realistic text sample data
 
 
 ---
@@ -713,44 +626,10 @@ Hey Claude—I just added the "[skill-name]" skill. Can you [specific task]?
 
 The following domain-specific terminology and knowledge should be incorporated into skills:
 
-- M&A due diligence methodologies from Goldman Sachs, JP Morgan, and Morgan Stanley
-- Quality of Earnings analysis and normalization adjustments (one-time items, non-recurring, related party)
-- Working capital analysis and peg calculations for target setting
-- Technology due diligence for SaaS and enterprise software companies
-- Commercial due diligence and unit economics analysis (LTV/CAC, cohort retention)
-- SaaS business model metrics (ARR, NRR, GRR, Rule of 40, magic number, CAC payback)
-- Integration planning and synergy quantification methodologies
-- Risk assessment frameworks (probability x impact matrices, Monte Carlo simulation)
-- Valuation methodologies (DCF with WACC, comparable companies, precedent transactions)
-- Deal structuring considerations (asset vs. stock, earnouts, reps & warranties)
-- Post-merger integration best practices and Day 1 readiness planning
-- Data room analysis and systematic document review protocols
-- Management assessment frameworks and reference call methodologies
-- Customer and vendor reference call frameworks with scoring rubrics
-- Regulatory and antitrust considerations for technology deals
-- IP due diligence and patent portfolio analysis
-- Technology stack assessment (cloud architecture, APIs, scalability, infrastructure)
-- Cybersecurity and data privacy compliance (SOC 2, ISO 27001, GDPR, CCPA)
-- Financial modeling for SaaS companies (ARR builds, cohort models, retention curves)
-- Revenue quality assessment and sustainability analysis
-- Retention risk analysis for key employees and customers
-- Market sizing and TAM/SAM/SOM analysis for technology sectors
-- Competitive landscape analysis for enterprise software markets
-- Product-market fit assessment and customer validation frameworks
-- Go-to-market strategy evaluation (sales productivity, win rates, pipeline coverage)
-- Comparable company analysis (identifying comps, calculating multiples, adjustments)
-- Precedent transaction analysis (deal multiples, synergy assumptions, market context)
-- Accretion/dilution analysis for public company acquirers
-- Returns analysis for PE buyers (IRR, MOIC, cash-on-cash returns)
-- Working capital normalization and target balance sheet creation
-- Contract review frameworks (customer, vendor, employment agreements)
-- Litigation and regulatory risk assessment
-- Integration complexity scoring and resource planning
-- Cultural compatibility assessment and change management
-- Key employee retention strategies and compensation planning (1.5-2x annual comp)
-- Systems integration roadmap (ERP, CRM, HR platforms)
-- Customer communication strategies and retention planning
-- Synergy realization tracking and value capture methodologies
+- Adult learning theory and cognitive science
+- Spaced repetition principles
+- Expert pedagogy across all disciplines
+- Complexity distillation techniques
 
 Ensure these concepts are properly explained in SKILL.md or reference files.
 
@@ -760,14 +639,9 @@ Ensure these concepts are properly explained in SKILL.md or reference files.
 
 Skills should integrate with or support these tools/platforms:
 
-- Excel (complex financial models, valuation analysis, scenario planning, working capital schedules)
-- PowerPoint generation (Investment Committee presentations with professional formatting)
-- PDF analysis (data room document review, contract analysis, financial statement parsing)
-- Python data analysis (pandas, numpy for financial modeling, statistical analysis)
-- Document parsing and text extraction (for contract review and data room analysis)
-- Data visualization libraries (matplotlib, plotly, seaborn for charts and graphs)
-- Financial data APIs (for comparable company data, market multiples, benchmarking)
-- Web research for market intelligence, competitive analysis, and precedent transactions
+- NotebookLM (for podcast conversion)
+- Note-taking apps (Obsidian, Notion)
+- Learning platforms (Coursera, Udemy, YouTube)
 
 Include appropriate instructions for working with these tools in your skills.
 
@@ -777,30 +651,11 @@ Include appropriate instructions for working with these tools in your skills.
 
 All skills must adhere to these constraints:
 
-- Must adapt framework complexity based on deal size ($10M requires different depth than $250M+)
-- Must clearly flag data gaps, missing information, and areas requiring additional diligence
-- Must provide probability-weighted risk assessments with specific mitigation strategies
-- Must quantify synergies with confidence levels (high/medium/low) and realization timelines
-- Must distinguish between strategic deal-breakers vs. tactical issues manageable post-close
-- Must produce Investment Committee-ready materials with executive summaries
-- Analysis must be suitable for board and senior management consumption
-- Must identify integration complexity and execution risks upfront
-- Financial analysis must include normalized adjustments with clear documentation of changes
-- Must use verifiable data sources and clearly flag assumptions vs. sourced facts
-- Must provide scenario analysis (base/upside/downside) for key financial metrics
-- Must assess cultural fit and change management requirements for integration
-- Must evaluate retention risk for key personnel (technical, sales, product leadership)
-- PowerPoint output must follow professional investment banking formatting standards
-- Excel models must include audit trails, assumption documentation, and sensitivity analysis
-- Must benchmark key metrics against comparable companies and industry standards
-- Must clearly identify deal-breakers early in diligence process (within Phase 1-2)
-- Valuation must use multiple methodologies (DCF, comps, precedents) with range of outcomes
-- Risk assessment must use probability x impact scoring with quantified financial impact
-- Integration plans must include specific Day 1 priorities and 100-day milestones with owners
-- Must balance acquirer perspective (opportunities/synergies) with objective risk assessment
-- Customer concentration risk must be explicitly assessed (>30% from top 10 is high risk)
-- Technology assessment must evaluate both current state and modernization requirements
-- All synergy assumptions must be validated with specific implementation plans
+- Must maintain identical output format across ALL topics
+- Must be optimized for audio conversion (NotebookLM)
+- Must scale from beginner to expert level
+- Must distill complexity without losing depth
+- Must work for any domain (technical, business, creative, academic)
 
 Consider these constraints when designing workflows and selecting approaches.
 

@@ -1,0 +1,33 @@
+Sample Topic Request - Technical Subject
+
+Topic: Introduction to Reinforcement Learning
+
+User Profile:
+- Background: Software engineer with ML basics (taken Andrew Ng's course)
+- Current Knowledge Level: Intermediate (understand supervised learning well)
+- Learning Goal: Implement RL algorithms for game AI
+- Time Available: 8 hours per week
+- Preferred Format: Both visual and audio (want to listen during commute, reference while coding)
+
+Specific Interests:
+- Q-Learning and Deep Q-Networks
+- Policy Gradient methods
+- Actor-Critic algorithms
+- Practical implementation (not just theory)
+
+Expected Challenge Areas:
+- Understanding Markov Decision Processes
+- Balancing exploration vs. exploitation
+- Credit assignment problem
+- Debugging RL algorithms
+
+Success Criteria:
+- Build a working game AI using RL
+- Understand when to use which algorithm
+- Debug common RL training issues
+
+Additional Context:
+- Have experience with TensorFlow/PyTorch
+- Want real code examples, not just pseudocode
+- Interested in both theory and practice
+

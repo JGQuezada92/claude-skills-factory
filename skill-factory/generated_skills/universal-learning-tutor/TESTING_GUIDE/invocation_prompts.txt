@@ -1,0 +1,169 @@
+Universal Learning Tutor - Invocation Prompts for Testing
+
+==============================================================================
+BASIC INVOCATIONS
+==============================================================================
+
+1. Simple Topic Request (Technical)
+"I want to learn about machine learning optimization algorithms. Use the universal-learning-tutor skill to create a complete learning guide."
+
+2. Simple Topic Request (Business)
+"Teach me M&A due diligence using the learning tutor skill."
+
+3. Simple Topic Request (Creative)
+"I want to learn classical oil painting techniques. Create a comprehensive learning guide."
+
+==============================================================================
+DETAILED INVOCATIONS (Recommended Format)
+==============================================================================
+
+4. Technical Subject with Full Parameters
+"I want to learn about quantum entanglement. Use the universal-learning-tutor skill to create a complete learning guide with research, priming, and comprehension phases.
+
+My current knowledge: Beginner (took intro physics in college)
+Learning goal: Understand the fundamentals and key experiments
+Time available: 5 hours per week
+Preferred format: Both visual and audio (I'll convert to NotebookLM podcast)"
+
+5. Business Subject with Full Parameters
+"Teach me financial due diligence for M&A transactions using the learning tutor skill.
+
+My current knowledge: Intermediate (business degree, 3 years experience)
+Learning goal: Lead due diligence projects at my firm
+Time available: 10 hours per week
+Preferred format: Visual primarily (for work reference)"
+
+6. Creative Subject with Full Parameters
+"I want to master Baroque music composition. Create a learning guide using the universal-learning-tutor skill.
+
+My current knowledge: Complete beginner (can read music, play piano)
+Learning goal: Compose original pieces in Baroque style
+Time available: 3 hours per week
+Preferred format: Both visual and audio for commute learning"
+
+==============================================================================
+ADVANCED/EDGE CASE INVOCATIONS
+==============================================================================
+
+7. Highly Technical Topic
+"Help me learn tensor calculus and differential geometry. Current level: Advanced (PhD student in physics). Goal: Apply to general relativity research. Time: 15 hours/week. Format: Visual with heavy mathematical rigor."
+
+8. Interdisciplinary Topic
+"Teach me behavioral economics - the intersection of psychology and economic decision-making. Level: Intermediate in both fields. Goal: Apply to product design. Time: 8 hours/week. Format: Both modalities."
+
+9. Professional/Practical Skill
+"I want to learn contract law fundamentals for business professionals. Level: Beginner (no legal background). Goal: Review and negotiate SaaS contracts. Time: 6 hours/week. Format: Visual."
+
+10. Specialized Domain Knowledge
+"Teach me molecular biology of cancer. Level: Intermediate biology (undergrad degree, 5 years ago). Goal: Understand research papers in oncology. Time: 8 hours/week. Format: Audio-friendly for podcast."
+
+==============================================================================
+MINIMAL INVOCATIONS (Testing Defaults)
+==============================================================================
+
+11. Topic Only
+"Teach me Python programming from scratch."
+
+12. Topic + Level
+"I want to learn blockchain technology. I'm a beginner."
+
+13. Topic + Goal
+"Help me learn data visualization. My goal is to create dashboards for executives."
+
+==============================================================================
+MULTI-TURN FOLLOW-UP TESTS
+==============================================================================
+
+14. Initial Request
+"Teach me strategic business planning."
+
+Follow-up: "Can you focus more on competitive analysis frameworks?"
+
+Follow-up: "Add more examples from tech companies."
+
+==============================================================================
+FORMAT VERIFICATION TESTS
+==============================================================================
+
+15. Audio Optimization Emphasis
+"I want to learn Renaissance art history. I ONLY consume content via audio (NotebookLM). Make it extremely conversational and podcast-friendly. No tables, no complex formatting."
+
+16. Visual Emphasis
+"Teach me computer networking fundamentals. I need this as a reference document I can search and scan quickly. Emphasize clear structure and visual hierarchy."
+
+==============================================================================
+SCOPE TESTS
+==============================================================================
+
+17. Very Narrow Topic
+"Teach me specifically about HTTP/2 protocol improvements over HTTP/1.1."
+
+18. Very Broad Topic
+"I want to learn artificial intelligence from foundations to current research."
+
+19. Just-Right Scope
+"Teach me convolutional neural networks for computer vision."
+
+==============================================================================
+EXPECTED BEHAVIOR TESTS
+==============================================================================
+
+20. Resource Quality Check
+After receiving guide: "Are all the resource links valid? Can you verify the top 5 resources are currently available?"
+
+21. Quiz Validation Check
+After receiving guide: "Can you validate that all quiz answers are correct and explanations are accurate?"
+
+22. Format Compliance Check
+After receiving guide: "Does this guide follow the standardized template exactly? Are all required sections present?"
+
+==============================================================================
+REGENERATION/REFINEMENT TESTS
+==============================================================================
+
+23. Request for More Depth
+"This is good, but I need more worked examples in the calculus section. Add 2 more examples."
+
+24. Request for Simplification
+"The quantum mechanics section is too advanced. Can you make it more accessible for beginners?"
+
+25. Request for Different Resources
+"Can you replace the paid courses with free alternatives?"
+
+==============================================================================
+USAGE NOTES
+==============================================================================
+
+When testing, verify:
+
+1. COMPLETENESS
+   - All phases present (Research, Priming, Comprehension)
+   - 10-15 resources ranked
+   - 10 quiz questions
+   - 3-5 project prompts
+   - Complete notes for all subtopics
+
+2. FORMAT COMPLIANCE
+   - Follows standardized template exactly
+   - Proper markdown formatting
+   - Audio-friendly language
+   - Visual scanability
+
+3. CONTENT QUALITY
+   - Resources are real and high-quality
+   - Quiz answers are correct
+   - Examples are accurate
+   - Definitions match expert consensus
+
+4. MULTI-MODAL OPTIMIZATION
+   - Conversational tone for audio
+   - Clear structure for visual
+   - Works for NotebookLM conversion
+
+5. DOMAIN ADAPTATION
+   - Teaching approach suits the subject
+   - Technical subjects: precision, worked examples
+   - Business: frameworks, case studies
+   - Creative: masters, process
+   - Science: mechanisms, multi-scale
+

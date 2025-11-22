@@ -1,0 +1,14 @@
+# Universal Learning Tutor - Python Dependencies
+
+# Core dependencies (required)
+requests>=2.31.0
+
+# Optional dependencies for enhanced validation
+beautifulsoup4>=4.12.0  # For web scraping and content extraction
+wikipedia>=1.4.0        # For definition validation against Wikipedia
+lxml>=4.9.0            # Parser for BeautifulSoup (recommended)
+
+# Note: The content_validator.py will work without optional dependencies
+# but with reduced functionality. Install optional packages with:
+#   pip install -r requirements.txt
+

@@ -1,5 +1,5 @@
 # Claude Skills Generator Configuration
-# Elite FP&A Professional - Financial Planning & Analysis Expert
+# Universal Learning Tutor - Domain-Agnostic Knowledge Distillation
 
 # ==============================================================================
 # BUSINESS INFORMATION
@@ -7,40 +7,25 @@
 
 business:
   description: |
-    I am an elite Financial Planning & Analysis (FP&A) professional with 20+ years of 
-    experience serving as CFO, Controller, and VP of Finance at Fortune 500 companies, 
-    high-growth startups, and private equity portfolio companies. My expertise spans 
-    comprehensive financial statement analysis, strategic financial planning, budgeting 
-    and forecasting, KPI frameworks, performance optimization, and executive-level 
-    financial reporting. I synthesize methodologies from top-tier institutions including 
-    Goldman Sachs (strategic financial analysis), McKinsey & Company (performance 
-    improvement frameworks), Deloitte (financial reporting excellence), and leading 
-    corporate finance departments at companies like Apple, Amazon, and Microsoft. I deliver 
-    institutional-quality financial analysis that identifies performance drivers, uncovers 
-    optimization opportunities, flags financial red flags, and provides actionable strategic 
-    recommendations for improving profitability, cash flow, and operational efficiency across 
-    all industries and company sizes.
+    Lifelong learner seeking efficient, systematic learning automation across 
+    any domain. Need to rapidly acquire expert-level knowledge in diverse fields 
+    ranging from technical subjects (AI agent development, quantum computing) to 
+    business disciplines (M&A analysis, financial modeling, strategic planning) 
+    to creative and academic domains. Require consistent, standardized learning 
+    format that works across all topics for easier cognitive processing and 
+    retention. Value both depth and accessibility - need complex topics distilled 
+    without losing rigor.
   
-  industry: "Financial Planning & Analysis - CFO/Controller/FP&A Leadership"
+  industry: "Education Technology / Personal Learning Automation"
   
-  team_size: "1-500+"
+  team_size: "1 (Personal Use)"
   
   primary_workflows:
-    - "Financial Statement Analysis & Interpretation"
-    - "Budgeting, Forecasting & Financial Planning"
-    - "KPI Framework Development & Performance Tracking"
-    - "Variance Analysis & Performance Attribution"
-    - "Profitability Analysis & Margin Optimization"
-    - "Cash Flow Analysis & Working Capital Management"
-    - "Financial Modeling & Scenario Planning"
-    - "Strategic Financial Planning & Capital Allocation"
-    - "Management Reporting & Executive Dashboards"
-    - "Red Flag Identification & Risk Assessment"
-    - "Cost Structure Analysis & Optimization"
-    - "Revenue Analytics & Growth Driver Analysis"
-    - "Operational Efficiency Analysis"
-    - "Financial Due Diligence Support"
-    - "Board and Investor Reporting"
+    - "Rapid topic research and resource curation"
+    - "Knowledge synthesis and comprehension"
+    - "Multi-modal learning (visual + audio)"
+    - "Spaced repetition and long-term retention"
+    - "Applied project-based learning"
 
 # ==============================================================================
 # SKILL GENERATION REQUIREMENTS
@@ -52,488 +37,256 @@ skills:
   overlap_strategy: "overlapping"
   
   use_cases:
-    - name: "Elite FP&A Professional"
+    - name: "Universal Learning Tutor - Domain-Agnostic Knowledge Distillation"
       description: |
-        Act as an elite FP&A professional, CFO, and Controller with expertise from top 
-        institutions, capable of delivering comprehensive financial analysis, strategic 
-        insights, and executive-level recommendations that are scalable across all industries 
-        and company sizes. This skill provides institutional-quality financial intelligence 
-        that identifies what's working well, what needs improvement, where red flags exist, 
-        and how to strategically drive recommended changes.
+        A truly universal personal learning tutor that transforms ANY subject into a 
+        comprehensive, expert-level learning experience. Works across all domains: 
+        technical fields (AI, quantum physics, engineering), business disciplines 
+        (strategy, M&A, finance), creative domains (design, music, writing), academic 
+        subjects (sciences, humanities, mathematics), and specialized knowledge 
+        (legal, medical, skilled trades).
         
-        **Core Expertise Areas:**
+        CORE CAPABILITIES:
         
-        1. **Financial Statement Analysis:**
-           - Comprehensive analysis of Income Statement, Balance Sheet, and Cash Flow Statement
-           - Horizontal analysis (trend analysis over multiple periods with growth rates)
-           - Vertical analysis (common-size statements showing component percentages)
-           - Financial ratio analysis (liquidity, profitability, efficiency, leverage, market ratios)
-           - DuPont analysis for ROE decomposition (profit margin × asset turnover × equity multiplier)
-           - Quality of earnings assessment (cash vs. accrual earnings, sustainability)
-           - Working capital analysis (current ratio, quick ratio, cash conversion cycle)
-           - Cash flow analysis (operating, investing, financing activities and free cash flow)
-           - Capital structure analysis (debt-to-equity, interest coverage, leverage ratios)
-           - Profitability metrics (gross margin, operating margin, net margin, EBITDA margin, ROIC, ROE, ROA)
-           - Efficiency ratios (asset turnover, inventory turnover, receivables turnover, payables turnover)
-           - Liquidity analysis (current ratio, quick ratio, cash ratio, working capital adequacy)
-           - Solvency analysis (debt ratios, coverage ratios, financial leverage assessment)
+        UNIVERSAL EXPERTISE: Synthesizes expert-level knowledge across the entire 
+        knowledge landscape. Mirrors the teaching style, depth, and insights of top 
+        practitioners in each field. Adapts pedagogical approach to match the nature 
+        of the subject (quantitative, qualitative, creative, technical, etc.).
         
-        2. **Performance Analysis & KPI Frameworks:**
-           - Industry-specific KPI identification and tracking
-           - Financial KPIs (revenue growth, margin trends, cash flow metrics, returns on capital)
-           - Operational KPIs (productivity metrics, efficiency ratios, capacity utilization)
-           - Customer KPIs (acquisition cost, lifetime value, retention rates, churn analysis)
-           - Employee productivity metrics (revenue per employee, profit per employee)
-           - Balanced Scorecard framework (financial, customer, internal process, learning & growth)
-           - Performance dashboards with visual analytics
-           - Trend analysis and pattern identification
-           - Peer benchmarking and competitive positioning
-           - Historical performance vs. budget/forecast variance analysis
-           - Leading vs. lagging indicator framework
-           - Performance attribution analysis (what drove changes in key metrics)
+        COMPLEXITY DISTILLATION: Unrivaled ability to break down nuanced, complex 
+        topics into clear, understandable components without losing depth or rigor. 
+        Makes quantum mechanics as accessible as Renaissance art history while 
+        maintaining intellectual honesty and expert-level precision.
         
-        3. **Variance Analysis & Performance Attribution:**
-           - Budget vs. actual variance analysis with explanations
-           - Revenue variance decomposition (volume, price, mix effects)
-           - Cost variance analysis (fixed vs. variable, spending vs. efficiency variances)
-           - Margin variance analysis (revenue mix, cost structure, pricing impacts)
-           - Bridge analysis showing period-over-period changes
-           - Material variance investigation and root cause analysis
-           - Forecast accuracy assessment and improvement recommendations
-           - Performance driver identification (what moved the needle)
-           - Operational leverage analysis
-           - Sensitivity analysis on key assumptions
+        STRUCTURED THREE-PHASE AUTOMATION:
         
-        4. **Profitability Analysis & Margin Optimization:**
-           - Gross margin analysis by product, service, customer, segment
-           - Contribution margin analysis and break-even calculations
-           - Operating leverage and fixed vs. variable cost structure
-           - Product/service profitability ranking and portfolio optimization
-           - Customer profitability analysis (identifying profitable vs. unprofitable relationships)
-           - Channel profitability assessment
-           - Geographic profitability analysis
-           - Pricing strategy analysis and optimization opportunities
-           - Cost structure benchmarking against industry peers
-           - Margin expansion opportunities (revenue optimization, cost reduction, efficiency gains)
-           - Price-volume-mix analysis for margin changes
-           - Cost per unit economics and economies of scale assessment
+        PHASE 1 - RESEARCH: Aggregates and ranks the best learning resources across 
+        the knowledge spectrum. Evaluates courses (Coursera, Udemy, MasterClass), 
+        articles, videos, papers, books, podcasts, expert content. Ranks by quality, 
+        depth, pedagogical value, and unique perspectives. Includes both free and 
+        paid resources with clear labeling. Outputs ranked resource list with 
+        annotations explaining why each matters.
         
-        5. **Cash Flow & Working Capital Management:**
-           - Cash flow statement analysis (operating, investing, financing activities)
-           - Free cash flow calculation and analysis (FCF = Operating CF - CapEx)
-           - Cash conversion cycle analysis (DSO + DIO - DPO)
-           - Days Sales Outstanding (DSO) and receivables management
-           - Days Inventory Outstanding (DIO) and inventory efficiency
-           - Days Payables Outstanding (DPO) and supplier payment optimization
-           - Working capital optimization opportunities
-           - Cash flow forecasting and liquidity planning
-           - Burn rate analysis for high-growth/early-stage companies
-           - Cash runway calculation and funding requirements
-           - Capital expenditure analysis and ROI assessment
-           - Dividend capacity and shareholder return analysis
+        PHASE 2 - PRIMING: Generates structured knowledge map showing how the topic 
+        is organized. Creates pre-assessment quiz (10 questions) to establish baseline 
+        understanding. Provides 1-paragraph overviews for each major subtopic to 
+        orient learner. Suggests hands-on project prompts for applied learning. 
+        Outputs complete learning roadmap with quizzes and orientation materials.
         
-        6. **Red Flag Identification & Risk Assessment:**
-           - Revenue red flags (declining growth, customer concentration, revenue quality issues)
-           - Margin red flags (compression trends, unfavorable mix shifts, cost inflation)
-           - Cash flow red flags (negative operating CF, divergence from net income, deteriorating working capital)
-           - Balance sheet red flags (excessive leverage, liquidity constraints, asset impairments)
-           - Working capital red flags (rising DSO, inventory obsolescence, supplier payment delays)
-           - Profitability red flags (declining margins, negative unit economics, unsustainable pricing)
-           - Operational red flags (declining productivity, rising overhead, inefficiencies)
-           - Growth red flags (decelerating growth, market share losses, customer churn)
-           - Financial health red flags (covenant violations, going concern issues, audit qualifications)
-           - Early warning indicators of financial distress
-           - Fraud risk indicators (revenue manipulation, expense capitalization, related party transactions)
-           - Quality of earnings concerns (aggressive accounting, non-recurring items masking performance)
+        PHASE 3 - COMPREHENSION: Extracts key definitions, mental models, frameworks, 
+        and worked examples from each subtopic. Structures knowledge into standardized 
+        learning notes that build from foundational to advanced. Includes spaced 
+        repetition prompts for long-term retention and active learning exercises. 
+        Identifies common pitfalls and expert insights. Outputs complete study guide 
+        ready for immediate use.
         
-        7. **Strategic Financial Planning:**
-           - Long-range financial planning (3-5 year strategic plans)
-           - Scenario modeling (base case, upside, downside scenarios)
-           - Sensitivity analysis on key value drivers
-           - Capital allocation strategy and prioritization frameworks
-           - Investment opportunity evaluation (ROI, NPV, IRR, payback period)
-           - Make vs. buy financial analysis
-           - Organic vs. inorganic growth strategy financial implications
-           - Market entry/exit financial analysis
-           - Capacity planning and scaling strategies
-           - Business model optimization
-           - Profitability improvement roadmaps
-           - Strategic initiative financial modeling
+        STANDARDIZED OUTPUT: Every topic follows identical format regardless of 
+        domain, enabling rapid familiarization with new content. Output optimized 
+        for multi-modal consumption: visual reading, audio conversion (NotebookLM 
+        podcasts), and integration with note-taking systems (Obsidian, Notion).
         
-        8. **Financial Modeling & Forecasting:**
-           - Integrated 3-statement financial models (P&L, balance sheet, cash flow)
-           - Revenue forecasting models (top-down and bottom-up approaches)
-           - Expense forecasting with fixed/variable cost separation
-           - Headcount planning models
-           - CapEx planning and depreciation schedules
-           - Working capital forecasting
-           - Debt schedule modeling and interest calculations
-           - Tax modeling and effective tax rate analysis
-           - Scenario and sensitivity analysis
-           - Monte Carlo simulation for probabilistic forecasting
-           - Driver-based financial models
-           - Annual budgeting and quarterly forecasting processes
+        LEARNING OUTCOMES: Transforms learners from novice to expert in any subject 
+        through systematic knowledge acquisition, expert-level insight, and complexity 
+        management. Designed to help learners of any caliber achieve mastery through 
+        structured, distilled, and actionable learning materials.
         
-        9. **Operational Efficiency & Cost Optimization:**
-           - Cost structure analysis (fixed vs. variable, direct vs. indirect)
-           - Operating expense ratio analysis and benchmarking
-           - Overhead cost analysis and reduction opportunities
-           - Process efficiency assessment
-           - Automation and digitization ROI analysis
-           - Outsourcing vs. insourcing financial evaluation
-           - Organizational efficiency metrics (span of control, layers, productivity)
-           - Zero-based budgeting approach for cost optimization
-           - Cost reduction roadmap development with implementation plans
-           - Procurement optimization and vendor management
-           - Real estate and facility cost optimization
-           - Technology spending optimization (SaaS rationalization, cloud cost optimization)
+        OUTPUT FORMAT SPECIFICATION:
         
-        10. **Revenue Analytics & Growth Strategy:**
-            - Revenue trend analysis and growth rate decomposition
-            - Revenue mix analysis (products, services, geographies, channels, customers)
-            - Customer acquisition and retention analysis
-            - Pricing strategy analysis and elasticity assessment
-            - Sales productivity and efficiency metrics
-            - Pipeline analysis and conversion rate optimization
-            - Market share analysis and competitive positioning
-            - Customer lifetime value (LTV) and acquisition cost (CAC) analysis
-            - Revenue concentration risk assessment (customer, product, geographic)
-            - Churn analysis and retention improvement strategies
-            - Cross-sell and upsell opportunity quantification
-            - New market/product revenue opportunity assessment
+        Every learning guide follows this exact structure for consistency:
         
-        **Industry-Agnostic Framework:**
+        # [TOPIC] - Complete Learning Guide
         
-        The skill must be fully adaptable to any industry including:
-        - Technology (SaaS, software, hardware, IT services)
-        - Manufacturing (discrete, process, industrial)
-        - Retail (e-commerce, brick-and-mortar, omnichannel)
-        - Healthcare (providers, payers, pharmaceuticals, medical devices)
-        - Financial Services (banking, insurance, asset management, fintech)
-        - Professional Services (consulting, legal, accounting, advisory)
-        - Consumer Products (CPG, food & beverage, apparel)
-        - Energy (oil & gas, renewables, utilities)
-        - Real Estate (REITs, development, property management)
-        - Telecommunications
-        - Transportation & Logistics
-        - Hospitality & Travel
-        - Media & Entertainment
-        - Education
-        - Non-profit organizations
+        ## Executive Summary
+        [2-3 paragraphs: What this topic is, why it matters, what you'll achieve]
+        [Written for audio: conversational, clear transitions]
         
-        **Company Size Scalability:**
+        ## Learning Objectives
+        By mastering this topic, you will:
+        - Objective 1
+        - Objective 2
+        - Objective 3
+        [Clear, measurable outcomes]
         
-        The analysis framework must scale appropriately based on company size and stage:
+        ---
         
-        - **Early-Stage Startups (<$5M revenue):** Focus on burn rate, runway, unit economics, 
-          path to profitability, growth metrics, capital efficiency
+        ## PHASE 1: CURATED LEARNING RESOURCES
         
-        - **Growth-Stage Companies ($5M-$50M revenue):** Emphasis on growth sustainability, 
-          margin development, working capital management, operational scalability, KPI tracking
+        ### Top-Tier Resources (Ranked by Quality)
         
-        - **Mid-Market Companies ($50M-$500M revenue):** Comprehensive financial analysis, 
-          margin optimization, operational efficiency, market positioning, strategic planning
+        **1. [Resource Name]** [FREE/PAID]
+        - Type: Course / Article / Video / Book / Paper
+        - Platform: [Where to find it]
+        - Why This Matters: [1-2 sentence rationale]
+        - Best For: [Beginner/Intermediate/Advanced]
+        - Time Investment: [Duration/length]
+        - Link: [URL]
         
-        - **Large Enterprises ($500M+ revenue):** Detailed segment analysis, complex cost 
-          structures, capital allocation, portfolio management, shareholder returns, board-level reporting
+        [Repeat for 10-15 resources]
         
-        **Analysis Capabilities:**
+        ### Resource Progression Path
+        - **Foundation (Start Here)**: Resources 1-3
+        - **Building Depth**: Resources 4-7
+        - **Advanced Mastery**: Resources 8-10
+        - **Supplementary Deep Dives**: Resources 11-15
         
-        The skill should handle requests like:
-        - "Analyze these financial statements and provide a comprehensive CFO-level assessment. 
-          Identify key performance drivers, red flags, and strategic recommendations."
-        - "Conduct a detailed profitability analysis. Where are we making money? Where are we 
-          losing money? What should we do about it?"
-        - "Analyze our cash flow and working capital. Why is our cash balance declining despite 
-          strong net income? What actions should we take?"
-        - "Perform variance analysis for Q3 results vs. budget. What drove the performance 
-          miss? What corrective actions do you recommend?"
-        - "Evaluate our cost structure and identify opportunities for margin expansion. 
-          Provide a detailed cost optimization roadmap."
-        - "Analyze our customer profitability. Which customers are most valuable? Where 
-          should we focus our sales efforts?"
-        - "Build a 3-year financial model with base/upside/downside scenarios. Include 
-          revenue drivers, cost structure, and cash flow projections."
-        - "Identify financial red flags in these statements. What concerns should management 
-          and the board be aware of?"
-        - "Develop a comprehensive KPI framework for our business. What metrics should we track 
-          monthly/quarterly?"
-        - "Analyze our revenue trends. Is our growth sustainable? What are the key growth 
-          drivers and risks?"
-        - "Assess our working capital efficiency. How do we compare to industry peers? What 
-          improvements would you recommend?"
-        - "Evaluate our capital structure. Do we have too much/too little debt? What's the 
-          optimal financing strategy?"
-        - "Perform strategic financial analysis for a potential product line expansion. 
-          What's the expected ROI? What are the risks?"
-        - "Create an executive dashboard for the CEO and board. What are the 10 most important 
-          metrics to track?"
-        - "Analyze why our margins are declining. Is it pricing pressure, cost inflation, 
-          or unfavorable mix? What's the solution?"
-        - "Assess our pricing strategy. Are we leaving money on the table? Where can we 
-          raise prices?"
-        - "Evaluate our operational efficiency vs. competitors. Where are we underperforming? 
-          What drives the gap?"
-        - "Analyze our SG&A spending. Is it appropriate for our size and stage? Where can 
-          we reduce overhead?"
-        - "Forecast our cash needs for the next 18 months. Do we need to raise capital? 
-          If so, how much and when?"
-        - "Perform due diligence-level financial analysis on these statements for a potential 
-          acquisition or investment."
+        ---
         
-        **Analytical Frameworks & Methodologies:**
-        - DuPont analysis for ROE decomposition
-        - Porter's Five Forces for industry structure analysis
-        - Balanced Scorecard for performance measurement
-        - Economic Value Added (EVA) framework
-        - Cash conversion cycle optimization
-        - Zero-based budgeting methodology
-        - Activity-based costing for accurate profitability
-        - Customer lifetime value (LTV) and acquisition cost (CAC) analysis
-        - Cohort analysis for customer/revenue trends
-        - Scenario planning and sensitivity analysis
-        - Benchmarking against industry peers (public comps, private market data)
-        - Financial statement ratio analysis (40+ key ratios)
-        - Altman Z-Score for financial distress prediction
-        - Beneish M-Score for earnings manipulation detection
-        - Working capital optimization frameworks
-        - Capital allocation frameworks (ROIC, IRR, NPV, payback)
-        - Variance analysis methodologies (volume/price/mix decomposition)
-        - Cost behavior analysis (high-low method, regression analysis)
-        - Break-even analysis and contribution margin frameworks
-        - Revenue recognition analysis (ASC 606 compliance and quality assessment)
+        ## PHASE 2: LEARNING ROADMAP & PRIMING
         
-        **Output Requirements:**
+        ### Knowledge Architecture (Table of Contents)
         
-        All outputs must be professionally formatted in Arial font with comprehensive, 
-        well-structured reports including:
+        **1. Subtopic 1: [Name]**
+        - Core concepts: Concept A, Concept B, Concept C
+        - What you'll learn: [1-paragraph overview]
+        - Why it matters: [Connection to bigger picture]
         
-        1. **Executive Summary (2-3 pages):**
-           - Overall financial health assessment (excellent/good/concerning/poor)
-           - Key findings and insights (top 5-7 most important observations)
-           - Critical red flags requiring immediate attention
-           - Strategic recommendations prioritized by impact
-           - What's working well (areas of strength to build upon)
-           - What needs improvement (areas requiring corrective action)
-           - Financial performance summary (revenue, margins, cash flow, returns)
+        **2. Subtopic 2: [Name]**
+        [Repeat structure]
         
-        2. **Comprehensive Financial Analysis Report (15-30 pages):**
-           
-           **Section 1: Financial Performance Overview**
-           - Income statement analysis with trend commentary
-           - Balance sheet analysis with composition and trend insights
-           - Cash flow statement analysis with sources and uses
-           - Key financial metrics summary table
-           - Period-over-period change analysis
-           
-           **Section 2: Profitability Analysis**
-           - Margin analysis (gross, operating, net margins) with trends
-           - Return on investment metrics (ROE, ROA, ROIC)
-           - Profitability drivers and attribution analysis
-           - Margin compression/expansion factors
-           - Profitability by segment/product/customer (if data available)
-           - Peer benchmarking for profitability metrics
-           
-           **Section 3: Liquidity & Solvency Analysis**
-           - Working capital analysis and trends
-           - Liquidity ratios (current, quick, cash ratios)
-           - Cash flow adequacy assessment
-           - Debt and leverage analysis
-           - Interest coverage and debt service capability
-           - Covenant compliance assessment (if applicable)
-           
-           **Section 4: Efficiency & Operational Analysis**
-           - Asset utilization metrics (turnover ratios)
-           - Working capital efficiency (cash conversion cycle, DSO, DIO, DPO)
-           - Operational productivity metrics
-           - Cost structure analysis and benchmarking
-           - Operating leverage assessment
-           
-           **Section 5: Growth & Revenue Analysis**
-           - Revenue growth trends and decomposition
-           - Revenue mix analysis
-           - Growth driver identification
-           - Customer/product concentration analysis
-           - Market share and competitive position (if data available)
-           
-           **Section 6: Cash Flow & Working Capital**
-           - Cash flow generation quality
-           - Free cash flow analysis
-           - Working capital trends and optimization opportunities
-           - Capital expenditure analysis
-           - Cash runway and liquidity projections
-           
-           **Section 7: Red Flags & Risk Assessment**
-           - Comprehensive red flag identification
-           - Risk severity assessment (critical/high/medium/low)
-           - Early warning indicators
-           - Quality of earnings concerns
-           - Financial health overall assessment
-           
-           **Section 8: Performance vs. Best Practices**
-           - Industry benchmarking
-           - Best-in-class comparisons
-           - Gap analysis vs. peers
-           - Performance opportunities
-           
-           **Section 9: Strategic Recommendations**
-           - Prioritized recommendations by impact and effort
-           - Revenue optimization opportunities
-           - Margin improvement initiatives
-           - Cost reduction roadmap
-           - Working capital optimization actions
-           - Operational efficiency improvements
-           - Strategic initiatives with expected financial impact
-           - Implementation roadmap with timelines
-           - Quick wins vs. long-term initiatives
-           - Expected ROI/payback for each recommendation
-           
-           **Section 10: Financial Projections & Scenarios**
-           - Base case financial projections (3-5 years)
-           - Upside and downside scenarios
-           - Key assumptions and sensitivities
-           - Strategic initiative impact modeling
-           - Cash flow forecasts and funding requirements
+        [Continue for all major subtopics]
         
-        3. **Excel-Based Financial Models:**
-           - Integrated 3-statement model with formulas
-           - Historical financials (formatted and analyzed)
-           - Ratio analysis dashboards
-           - Variance analysis tables
-           - Scenario modeling with toggle switches
-           - Sensitivity analysis tables
-           - KPI tracking dashboards
-           - Professional formatting with color coding
-           - Executive summary tabs
-           - Assumption documentation
+        ### Pre-Assessment Quiz
+        Test your baseline knowledge before diving in:
         
-        4. **Executive Dashboard (PowerPoint or Excel):**
-           - One-page visual summary of key metrics
-           - Traffic light indicators (green/yellow/red)
-           - Trend charts for critical KPIs
-           - Variance to budget/forecast visualization
-           - Key insights and action items
-           - Board-ready presentation quality
+        **Question 1**: [Question text]
+        a) Option A
+        b) Option B  
+        c) Option C
+        d) Option D
         
-        5. **KPI Framework Document:**
-           - Comprehensive list of relevant KPIs for the business
-           - KPI definitions and calculation methodologies
-           - Target ranges and benchmarks
-           - Monitoring frequency (daily/weekly/monthly/quarterly)
-           - Ownership and accountability
-           - Leading vs. lagging indicators
+        **Answer**: [Letter] - **Explanation**: [Why this is correct and why others aren't]
         
-        **Formatting Standards:**
-        - Arial font throughout all documents
-        - Professional color scheme (blue, green, red for visualizations)
-        - Clear section headers and hierarchical structure
-        - Tables with proper formatting (borders, shading, alignment)
-        - Charts and graphs for visual communication of trends
-        - Page numbers and table of contents
-        - Executive-ready presentation quality
-        - Consistent formatting across all deliverables
-        - Clear labeling of all exhibits, tables, and charts
-        - Footnotes and data source references
+        [Repeat for 10 questions covering all major concepts]
         
-        **Writing Style & Tone:**
-        - CFO/Controller-level professional communication
-        - Clear, concise, actionable insights
-        - Data-driven with specific metrics and quantification
-        - Balanced perspective (strengths and weaknesses)
-        - Strategic orientation (not just descriptive, but prescriptive)
-        - Plain language explanations (avoiding excessive jargon)
-        - Executive audience appropriate (board, CEO, senior management)
-        - Confident recommendations with supporting rationale
-        - Explicit prioritization (what matters most)
-        - Honest assessment of risks and challenges
-        - Solution-oriented mindset
+        ### Hands-On Project Prompts
+        Apply learning through these projects:
         
-        **Domain Knowledge Coverage:**
+        **Project 1**: [Name]
+        - Goal: [What you'll build/create]
+        - Skills Practiced: [List]
+        - Difficulty: [Beginner/Intermediate/Advanced]
+        - Time: [Estimated hours]
         
-        - **Accounting & Financial Reporting:** GAAP principles, revenue recognition (ASC 606), 
-          lease accounting (ASC 842), financial statement preparation, accrual vs. cash accounting, 
-          inventory valuation methods, depreciation methodologies, capitalization vs. expense decisions
+        [Repeat for 3-5 projects progressing in complexity]
         
-        - **Financial Ratios:** Liquidity ratios (current, quick, cash, working capital), 
-          profitability ratios (gross margin, operating margin, net margin, ROE, ROA, ROIC, EBITDA 
-          margin), efficiency ratios (asset turnover, inventory turnover, receivables turnover, 
-          payables turnover, cash conversion cycle), leverage ratios (debt-to-equity, debt-to-assets, 
-          interest coverage, debt service coverage)
+        ---
         
-        - **Financial Analysis Techniques:** Horizontal analysis (trend analysis), vertical analysis 
-          (common-size statements), ratio analysis, DuPont analysis, quality of earnings assessment, 
-          variance analysis, break-even analysis, contribution margin analysis, sensitivity analysis, 
-          scenario planning
+        ## PHASE 3: COMPREHENSIVE LEARNING NOTES
         
-        - **Budgeting & Forecasting:** Zero-based budgeting, incremental budgeting, rolling forecasts, 
-          top-down vs. bottom-up approaches, driver-based modeling, seasonal adjustments, forecast 
-          accuracy measurement
+        ### Subtopic 1: [Name]
         
-        - **Performance Management:** Balanced Scorecard, KPI frameworks, performance attribution, 
-          variance analysis, benchmarking, management by objectives (MBO), goal setting (SMART goals)
+        **CORE DEFINITION**
+        [Clear, quotable definition that captures essence]
         
-        - **Cost Management:** Fixed vs. variable costs, direct vs. indirect costs, activity-based 
-          costing, cost behavior analysis, cost-volume-profit analysis, economies of scale, operating 
-          leverage, cost reduction strategies
+        **KEY CONCEPTS**
+        - **Concept 1**: [Explanation in clear language]
+        - **Concept 2**: [Explanation]
+        - **Concept 3**: [Explanation]
         
-        - **Working Capital Management:** Cash conversion cycle optimization, DSO reduction strategies, 
-          inventory management (EOQ, JIT), vendor payment terms optimization, cash forecasting, 
-          liquidity management
+        **MENTAL MODELS & FRAMEWORKS**
+        - **Framework 1**: [Name and description]
+          - When to use: [Context]
+          - How it works: [Mechanics]
+          - Example application: [Real scenario]
         
-        - **Cash Flow Analysis:** Operating cash flow analysis, free cash flow calculation, cash flow 
-          forecasting, burn rate analysis, runway calculation, sources and uses of cash
+        **WORKED EXAMPLE 1: [Title]**
+        Problem/Scenario: [Setup]
+        Step 1: [Action + reasoning]
+        Step 2: [Action + reasoning]
+        Step 3: [Action + reasoning]
+        Solution: [Final answer]
+        Key Takeaway: [What to remember]
         
-        - **Strategic Finance:** Capital allocation frameworks, investment appraisal (NPV, IRR, 
-          payback period), make vs. buy decisions, scenario planning, strategic financial planning, 
-          business case development
+        **WORKED EXAMPLE 2: [Title]**
+        [Repeat structure]
         
-        - **Industry-Specific Metrics:** SaaS metrics (ARR, MRR, churn, LTV, CAC, Rule of 40), 
-          retail metrics (same-store sales, inventory turns), manufacturing metrics (capacity 
-          utilization, throughput), professional services (utilization rate, realization rate)
+        **COMMON PITFALLS & HOW TO AVOID THEM**
+        - **Pitfall 1**: [What people get wrong]
+          - Why it happens: [Root cause]
+          - How to avoid: [Solution]
         
-        - **Risk Assessment:** Financial distress indicators (Altman Z-Score), earnings quality 
-          assessment (Beneish M-Score), red flag identification, covenant monitoring, going concern 
-          assessment
+        **EXPERT INSIGHTS**
+        [2-3 advanced tips from practitioners]
         
-        - **Benchmarking:** Public company comparables analysis, industry average comparisons, 
-          best-in-class benchmarking, peer group analysis
+        **SPACED REPETITION PROMPTS**
+        - Day 1: [Recall question]
+        - Day 3: [Application question]
+        - Week 1: [Synthesis question]
+        - Week 2: [Teaching question - explain to others]
         
-        - **Excel Financial Modeling:** 3-statement modeling, scenario modeling, sensitivity tables, 
-          data tables, dynamic dashboards, waterfall charts, variance bridges, financial statement 
-          formatting
+        ---
         
-        **Input Types Handled:**
-        - Financial statements (income statement, balance sheet, cash flow statement) in Excel, PDF, or image format
-        - Trial balances and general ledger data
-        - Management reports and board packages
-        - Budget and forecast files
-        - Historical financial data (multiple periods)
-        - Customer data (revenue by customer, retention rates)
-        - Product/service data (revenue and margins by offering)
-        - Employee data (headcount, compensation)
-        - Operational metrics and KPIs
-        - Industry reports and benchmarking data
-        - Transaction-level data for detailed analysis
-        - Bank statements and cash flow data
-        - Debt agreements and covenant schedules
+        [REPEAT ENTIRE STRUCTURE FOR EACH SUBTOPIC]
         
-        **Success Criteria:**
-        - Clear assessment of overall financial health (excellent/good/concerning/poor)
-        - Identification of specific performance drivers (what's driving results)
-        - Comprehensive red flag identification with severity assessment
-        - Actionable, prioritized recommendations with expected impact
-        - Professional, executive-ready formatting in Arial font
-        - Industry-appropriate analysis regardless of sector
-        - Scalable insights appropriate to company size and stage
-        - Data-driven insights with specific metrics and quantification
-        - Balance of strengths (what's working) and weaknesses (what needs improvement)
-        - Strategic perspective beyond just numbers (what it means and what to do)
-        - Clear explanations accessible to both financial and non-financial audiences
-        - Benchmarking context (vs. peers, industry standards, best practices)
-        - Forward-looking perspective (projections, scenarios, strategic recommendations)
+        ---
+        
+        ## NEXT STEPS & ACTIVE LEARNING
+        
+        ### Immediate Actions (This Week)
+        1. [Specific action]
+        2. [Specific action]
+        3. [Specific action]
+        
+        ### Ongoing Practice (This Month)
+        1. [Practice routine]
+        2. [Practice routine]
+        
+        ### Mastery Path (Next 3-6 Months)
+        1. [Long-term milestone]
+        2. [Long-term milestone]
+        
+        ### Community & Further Learning
+        - [Forums/communities to join]
+        - [Experts to follow]
+        - [Adjacent topics to explore]
+        
+        ---
+        
+        ## APPENDIX: QUICK REFERENCE
+        
+        ### Key Terms Glossary
+        **Term 1**: Definition
+        **Term 2**: Definition
+        [Alphabetical list]
+        
+        ### Essential Formulas/Frameworks
+        [Cheat sheet format]
+        
+        ### Recommended Tools & Resources
+        [Software, apps, websites relevant to this topic]
+        
+        ### Further Reading
+        [5-10 advanced resources for going deeper]
+        
+        ---
+        
+        *Generated by Universal Learning Tutor - Expert knowledge distillation for any subject*
+        
+        INVOCATION EXAMPLES:
+        
+        - "I want to learn about [quantum entanglement]. Use the universal-learning-tutor 
+          skill to create a complete learning guide. My current knowledge: Beginner. 
+          Learning goal: Understand the fundamentals and key experiments. Time available: 
+          5 hours per week. Preferred format: Both visual and audio."
+        
+        - "Teach me [M&A due diligence] using the learning tutor skill. I have 
+          intermediate business background. Goal: Lead due diligence projects. 
+          Time: 10 hours per week. Format: Visual primarily."
+        
+        - "I want to master [classical oil painting techniques]. Current level: Complete 
+          beginner. Goal: Create realistic portraits. Time: 3 hours per week. 
+          Format: Both visual and audio for commute learning."
+        
+        - "Help me learn [machine learning optimization algorithms]. Advanced mathematics 
+          background. Goal: Implement algorithms from scratch. Time: 15 hours per week. 
+          Format: Visual with code examples."
+        
+        - "Teach me [molecular biology of cancer]. Intermediate biology knowledge. 
+          Goal: Understand research papers in the field. Time: 8 hours per week. 
+          Format: Audio-friendly for podcast conversion."
         
       requires_python: true
-      sample_data_type: "excel"  # Financial statements, trial balances, budgets, forecasts
+      sample_data_type: "text"
 
 # ==============================================================================
 # ADVANCED OPTIONS
@@ -541,99 +294,25 @@ skills:
 
 advanced:
   integrations:
-    - "Excel (comprehensive financial models, ratio analysis, variance analysis, scenario planning, dashboards)"
-    - "Python data analysis (pandas, numpy for financial calculations, statistical analysis, forecasting)"
-    - "Data visualization libraries (matplotlib, plotly, seaborn for professional charts and graphs)"
-    - "PDF analysis (financial statement parsing, report extraction)"
-    - "PowerPoint generation (executive presentations and dashboards)"
-    - "Web research for industry benchmarking and competitive intelligence"
-    - "Financial data APIs (for market data, industry benchmarks, public company comps)"
-    - "Machine learning for forecasting and pattern recognition (optional advanced capability)"
+    - "NotebookLM (for podcast conversion)"
+    - "Note-taking apps (Obsidian, Notion)"
+    - "Learning platforms (Coursera, Udemy, YouTube)"
   
   domain_knowledge:
-    - "Financial statement analysis (income statement, balance sheet, cash flow statement)"
-    - "GAAP accounting principles and financial reporting standards"
-    - "Financial ratio analysis (liquidity, profitability, efficiency, leverage, 40+ ratios)"
-    - "DuPont analysis for ROE decomposition"
-    - "Horizontal and vertical analysis methodologies"
-    - "Quality of earnings assessment and earnings quality indicators"
-    - "Working capital management and cash conversion cycle optimization"
-    - "Variance analysis and performance attribution methodologies"
-    - "Budgeting and forecasting best practices (zero-based, rolling forecasts, driver-based)"
-    - "KPI frameworks and performance measurement systems"
-    - "Profitability analysis (gross margin, operating margin, contribution margin, customer profitability)"
-    - "Cost structure analysis and cost management techniques"
-    - "Break-even analysis and cost-volume-profit relationships"
-    - "Operating leverage and fixed vs. variable cost behavior"
-    - "Cash flow analysis and free cash flow calculation"
-    - "Financial modeling (3-statement models, scenario analysis, sensitivity analysis)"
-    - "Capital budgeting and investment appraisal (NPV, IRR, payback period)"
-    - "Strategic financial planning and long-range planning"
-    - "Red flag identification (revenue, margin, cash flow, balance sheet concerns)"
-    - "Financial distress indicators (Altman Z-Score, covenant violations)"
-    - "Earnings manipulation detection (Beneish M-Score)"
-    - "Industry benchmarking and competitive analysis"
-    - "SaaS metrics (ARR, MRR, churn, LTV, CAC, Rule of 40, magic number, NRR, GRR)"
-    - "Retail metrics (same-store sales, inventory turnover, sell-through rates)"
-    - "Manufacturing metrics (capacity utilization, throughput, yield, OEE)"
-    - "Professional services metrics (utilization, realization, margin per partner)"
-    - "Customer lifetime value and acquisition cost analysis"
-    - "Cohort analysis and retention analytics"
-    - "Pricing strategy and elasticity analysis"
-    - "Revenue mix and portfolio analysis"
-    - "Market share analysis and competitive positioning"
-    - "Unit economics and contribution margin analysis"
-    - "Debt structure and leverage analysis"
-    - "Interest coverage and debt service capability"
-    - "Covenant monitoring and compliance"
-    - "Liquidity management and cash runway analysis"
-    - "Capital structure optimization"
-    - "Treasury management best practices"
-    - "FP&A organization and processes"
-    - "Management reporting and executive dashboards"
-    - "Board reporting best practices"
-    - "Investor reporting (for private equity, venture capital, public companies)"
-    - "Excel financial modeling best practices"
-    - "Data visualization and communication of financial insights"
-    - "Business partnering and strategic advisory"
-    - "Value creation and margin improvement frameworks"
-    - "Operational efficiency analysis"
-    - "Organizational productivity metrics"
-    - "Go-to-market efficiency analysis"
-    - "Sales and marketing ROI analysis"
-    - "Technology spending optimization"
-    - "Real estate and facility cost optimization"
-    - "Procurement and vendor management optimization"
+    - "Adult learning theory and cognitive science"
+    - "Spaced repetition principles"
+    - "Expert pedagogy across all disciplines"
+    - "Complexity distillation techniques"
   
   preferred_languages:
     - "python"
   
   constraints:
-    - "Must be adaptable to any industry sector without requiring industry-specific customization"
-    - "Must scale appropriately based on company size (startup to Fortune 500)"
-    - "Must provide both quantitative analysis (numbers, ratios, metrics) and qualitative insights (what it means, what to do)"
-    - "All outputs must use Arial font for professional presentation"
-    - "Reports must be comprehensive yet concise (executive-friendly length)"
-    - "Must identify both strengths (what's working) and weaknesses (what needs improvement)"
-    - "Red flags must be clearly identified and prioritized by severity"
-    - "Recommendations must be specific, actionable, and prioritized by impact"
-    - "Must provide benchmarking context whenever possible (vs. peers, industry, best practice)"
-    - "Financial models must include audit trails and assumption documentation"
-    - "Must handle incomplete data gracefully and note limitations/gaps"
-    - "Analysis must be balanced and objective (not overly optimistic or pessimistic)"
-    - "Must explain financial concepts clearly for non-financial audiences when appropriate"
-    - "Visualizations must be professional, clear, and support key insights"
-    - "Must distinguish between symptoms and root causes in analysis"
-    - "Strategic recommendations must consider implementation feasibility and resource requirements"
-    - "Must provide forward-looking perspective (projections, scenarios) in addition to historical analysis"
-    - "Excel outputs must be user-friendly with clear formatting, formulas, and documentation"
-    - "Must identify quick wins (immediate impact) separately from longer-term strategic initiatives"
-    - "Cash flow analysis must reconcile to balance sheet changes"
-    - "Must assess sustainability of financial performance (one-time items vs. recurring)"
-    - "Variance analysis must explain both 'what' changed and 'why' it changed"
-    - "Must provide confidence levels or ranges for forecasts and projections"
-    - "Must consider industry-specific nuances even with industry-agnostic framework"
-    - "Must be suitable for board, executive, and investor audiences"
+    - "Must maintain identical output format across ALL topics"
+    - "Must be optimized for audio conversion (NotebookLM)"
+    - "Must scale from beginner to expert level"
+    - "Must distill complexity without losing depth"
+    - "Must work for any domain (technical, business, creative, academic)"
 
 # ==============================================================================
 # METADATA
@@ -641,10 +320,10 @@ advanced:
 
 metadata:
   config_version: "1.0"
-  created_date: "2025-11-07"
-  last_modified: "2025-11-07"
-  author: "Elite FP&A Practice"
-  organization: "Financial Leadership"
+  created_date: "2025-11-20"
+  last_modified: "2025-11-20"
+  author: "Lifelong Learner"
+  organization: "Personal Learning"
 
 generation_settings:
   claude_model: "claude-sonnet-4-20250514"
@@ -652,19 +331,15 @@ generation_settings:
   generation_mode: "comprehensive"
 
 tracking:
-  project_id: "elite-fpna-professional-v1"
+  project_id: "universal-learning-tutor-v1"
   tags:
-    - "fp&a"
-    - "financial-analysis"
-    - "cfo"
-    - "controller"
-    - "financial-planning"
-    - "budgeting"
-    - "forecasting"
-    - "performance-analysis"
-    - "strategic-finance"
-    - "kpi-frameworks"
-  notes: "Elite FP&A skill combining CFO, Controller, and FP&A best practices from top institutions. Provides comprehensive financial analysis, strategic insights, and executive-level recommendations scalable across all industries and company sizes. Delivers institutional-quality financial intelligence with professional Arial-formatted reports."
+    - "learning"
+    - "education"
+    - "tutoring"
+    - "knowledge-distillation"
+    - "multi-modal"
+    - "spaced-repetition"
+  notes: "Universal learning tutor skill that works across any domain - from quantum physics to Renaissance art. Automates research, priming, and comprehension with standardized output format optimized for both visual reading and audio conversion (NotebookLM podcasts)."
 
 # ==============================================================================
 # OUTPUT PREFERENCES
@@ -680,18 +355,13 @@ output:
   test_scenario_depth: "comprehensive"
   
   example_prompts:
-    - "Analyze these financial statements and provide a comprehensive CFO-level assessment. Identify key performance drivers, red flags, and strategic recommendations."
-    - "Conduct a detailed profitability analysis. Where are we making money? Where are we losing money? What should we do about it?"
-    - "Analyze our cash flow and working capital. Why is our cash balance declining despite strong net income? What actions should we take?"
-    - "Perform variance analysis for Q3 results vs. budget. What drove the performance miss? What corrective actions do you recommend?"
-    - "Evaluate our cost structure and identify opportunities for margin expansion. Provide a detailed cost optimization roadmap."
-    - "Analyze our customer profitability. Which customers are most valuable? Where should we focus our sales efforts?"
-    - "Build a 3-year financial model with base/upside/downside scenarios. Include revenue drivers, cost structure, and cash flow projections."
-    - "Identify financial red flags in these statements. What concerns should management and the board be aware of?"
-    - "Develop a comprehensive KPI framework for our business. What metrics should we track monthly/quarterly?"
-    - "Analyze our revenue trends. Is our growth sustainable? What are the key growth drivers and risks?"
-    - "Assess our working capital efficiency. How do we compare to industry peers? What improvements would you recommend?"
-    - "Evaluate our capital structure. Do we have too much/too little debt? What's the optimal financing strategy?"
-    - "Perform strategic financial analysis for a potential product line expansion. What's the expected ROI? What are the risks?"
-    - "Create an executive dashboard for the CEO and board. What are the 10 most important metrics to track?"
-    - "Analyze why our margins are declining. Is it pricing pressure, cost inflation, or unfavorable mix? What's the solution?"
+    - "I want to learn about quantum entanglement. Create a complete learning guide with research, priming, and comprehension phases."
+    - "Teach me M&A due diligence analysis from beginner to expert level."
+    - "Help me master classical oil painting techniques with a structured learning path."
+    - "I want to learn machine learning optimization algorithms. Create a comprehensive guide."
+    - "Teach me about molecular biology of cancer with expert-level depth."
+    - "Create a learning guide for Renaissance art history with visual and audio-friendly format."
+    - "Help me understand quantum computing from first principles."
+    - "Teach me strategic business planning with frameworks from top consulting firms."
+    - "I want to learn contract law fundamentals for business professionals."
+    - "Create a guide for learning Python programming from scratch to advanced."

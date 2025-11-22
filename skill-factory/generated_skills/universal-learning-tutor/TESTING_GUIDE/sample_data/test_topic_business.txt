@@ -1,0 +1,37 @@
+Sample Topic Request - Business Subject
+
+Topic: Strategic Pricing for SaaS Products
+
+User Profile:
+- Background: Product manager at B2B SaaS startup
+- Current Knowledge Level: Beginner (no formal pricing training)
+- Learning Goal: Develop pricing strategy for new product line
+- Time Available: 6 hours per week
+- Preferred Format: Visual primarily (need reference document)
+
+Specific Interests:
+- Value-based pricing vs. cost-plus
+- Pricing tiers and packaging
+- Freemium strategies
+- Price anchoring and psychology
+- Competitor pricing analysis
+- SaaS metrics (MRR, ARR, churn impact)
+
+Expected Challenge Areas:
+- Determining willingness to pay
+- Balancing growth vs. revenue
+- Pricing experiments and A/B testing
+- Handling price increases for existing customers
+
+Success Criteria:
+- Develop comprehensive pricing strategy
+- Build financial model showing impact
+- Understand pricing psychology
+- Know how to test and iterate
+
+Additional Context:
+- Product sells to mid-market companies ($10M-$500M revenue)
+- Currently using simple per-seat pricing
+- Want to explore usage-based and hybrid models
+- Need frameworks for pricing decisions
+
